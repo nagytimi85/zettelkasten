@@ -1,12 +1,12 @@
 ---
-title: Writing and publishing my Zettelkasten in English can be a good way to practice the Feynman-technique
+title: 1 Writing and publishing my Zettelkasten in English can be a good way to practice the Feynman-technique
 draft: false
 tags:
   - feynmantechnique
-timestamp: "202503281653"
-uid: "1"
 ---
+stamp 202503281653
 
+---
 
 # The Feynman-technique urges you to learn by
 

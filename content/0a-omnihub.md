@@ -1,11 +1,12 @@
 ---
-title: OmniHub
+title: 0a OmniHub
 draft: false
 tags:
   - hub
   - omnihub
-timestamp: "202503281657"
-uid: 0a
+---
+stamp 202503281657
+
 ---
 
 # The hub of all hubs

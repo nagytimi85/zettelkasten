@@ -1,16 +1,15 @@
 ---
-title: Root
+title: 0 Root
 draft: false
 tags:
   - root
   - rootnote
-timestamp: "202503281649"
-uid: "0"
+---
+stamp 202503281649 
+
 ---
 
-
-
-This is the root note for my public KNT Zettelkasten note, from where you can start browsing the content via UID's. 
+This is the root note for my public Zettelkasten, from where you can start browsing the content by the trains of thought that I started to develop. 
 
 # I started here, and so can you
 

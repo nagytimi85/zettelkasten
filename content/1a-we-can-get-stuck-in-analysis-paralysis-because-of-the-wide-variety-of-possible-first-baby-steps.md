@@ -1,11 +1,12 @@
 ---
-title: We can get stuck in analysis paralysis because of the wide variety of possible first baby steps
+title: 1a We can get stuck in analysis paralysis because of the wide variety of possible first baby steps
 draft: false
 tags:
   - thebabysteptrap
   - thebabystepparadox
-timestamp: "202503281724"
-uid: 1a
+---
+stamp 202503281724
+
 ---
 
 
