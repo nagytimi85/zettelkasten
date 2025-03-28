@@ -1,5 +1,5 @@
 ---
-title: The first card of a Zettelkasten is usually niche
+title: 1b The first card of a Zettelkasten is usually niche
 draft: false
 tags:
   - folgezettel
