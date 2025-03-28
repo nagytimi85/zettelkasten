@@ -8,7 +8,7 @@ timestamp: "202503281649"
 uid: "0"
 ---
 
-# Root
+
 
 This is the root note for my public KNT Zettelkasten note, from where you can start browsing the content via UID's. 
 
@@ -18,7 +18,7 @@ This is the root note for my public KNT Zettelkasten note, from where you can st
 
 ---
 
-# Related 
+## Related 
 
 - For the topical hub, see the Omnihub of this Zettelkasten: [[0a-omnihub]]
 - Why do I manually assign UID's in a digital system, when the system gives my notes a UID anyway?
