@@ -8,7 +8,7 @@ uid: "1"
 ---
 
 
-## The Feynman-technique urges you to learn by
+# The Feynman-technique urges you to learn by
 
 1. Teaching a topic to yourself
 2. Teaching the topic to someone else, optimally in a simple way (like teaching it to a 10 year old)
@@ -42,3 +42,4 @@ Since English is my second language, using it makes me simplify my message.
 # Technical links
 
 - [[0-root]]
+- [[1a-we-can-get-stuck-in-analysis-paralysis-because-of-the-wide-variety-of-possible-first-baby-steps]]
