@@ -34,6 +34,7 @@ Since English is my second language, using it makes me simplify my message.
 - The pros and cons of performative writing
 - Other learning techniques
 - What is a Zettelkasten
+- How can you start a Zettelkasten? (With a niche idea, and go from there): [[1b-the-first-card-of-a-zettelkasten-is-usually-niche]]
 
 
 
@@ -43,3 +44,4 @@ Since English is my second language, using it makes me simplify my message.
 
 - [[0-root]]
 - [[1a-we-can-get-stuck-in-analysis-paralysis-because-of-the-wide-variety-of-possible-first-baby-steps]]
+- [[1b-the-first-card-of-a-zettelkasten-is-usually-niche]]

@@ -1,9 +1,11 @@
 ---
-title: Example Title
+title: Bob Doto
 draft: false
 tags:
+  - bobdoto
+  - ref
 ---
-stamp 
+stamp 202503281953
 
 ---
 
