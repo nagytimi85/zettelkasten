@@ -2,7 +2,9 @@
 title: Writing and publishing my Zettelkasten in English can be a good way to practice the Feynman-technique
 draft: false
 tags:
-  - example-tag
+  - feynmantechnique
+timestamp: "202503281653"
+uid: "1"
 ---
 
 
