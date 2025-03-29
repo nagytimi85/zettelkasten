@@ -22,7 +22,7 @@ Rengeteg népszerű oktató azon dolgozik, hogy könnyen alkalmazható módszere
 # Related
 
 - Nick Milo's "this is interesting because" technique
-- How I was misguided by the fact that Scott Scheper's was the only from-card-one video guide I found about the Zettelkasten method
+- How I was misguided by the fact that Scott Scheper's was the only from-card-one video guide I found about the Zettelkasten method: [[1b1-scott-scheper-s-suggestion-to-build-your-zettelkasten-numbering-system-on-the-outline-of-academic-disciplines-is-confusing]]
 
 ---
 # Technical links

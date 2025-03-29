@@ -1,5 +1,5 @@
 ---
-title: "Doto, Bobo: How to Use Folgezettel in Your Zettelkasten"
+title: "Doto, Bob: How to Use Folgezettel in Your Zettelkasten"
 draft: false
 tags:
   - bobdoto
@@ -14,7 +14,8 @@ Doto, Bob. “How to Use Folgezettel in Your Zettelkasten: Everything You Need t
 ---
 # Related
 
-
+- Bob Doto: [[ref-doto-bob]]
+- A System for Writing by Bob Doto: [[ref-doto-bob]]
 
 ---
 # Technical links
