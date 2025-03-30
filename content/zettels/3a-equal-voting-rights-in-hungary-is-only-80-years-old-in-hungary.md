@@ -32,3 +32,5 @@ It's worth keeping in mind how young these rights are.
 
 ---
 # Technical links
+
+- [[3-the-rights-of-women-in-gilead-are-radically-cut-even-compared-to-medieval-ladies]]
