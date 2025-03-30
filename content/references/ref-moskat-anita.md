@@ -2,7 +2,6 @@
 title: Moskát, Anita
 draft: false
 tags:
-  - ref
   - moskatanita
 ---
 stamp 202503300943

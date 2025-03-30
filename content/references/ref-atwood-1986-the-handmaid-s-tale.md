@@ -2,7 +2,6 @@
 title: "Atwood, Margaret: The Handmaid's Tale"
 draft: false
 tags:
-  - ref
   - thehandmaidstale
 ---
 

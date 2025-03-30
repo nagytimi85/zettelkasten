@@ -3,7 +3,6 @@ title: Scheper, Scott
 draft: false
 tags:
   - scottscheper
-  - ref
 ---
 stamp 202503291113
 

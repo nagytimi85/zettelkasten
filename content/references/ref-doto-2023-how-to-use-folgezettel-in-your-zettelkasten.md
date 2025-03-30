@@ -4,7 +4,7 @@ draft: false
 tags:
   - bobdoto
   - folgezettel
-  - ref
+  - howtostartazettelkasten
 ---
 stamp 202503281955
 

@@ -2,7 +2,8 @@
 title: "Doto, Bob: A System for Writing"
 draft: false
 tags:
-  - ref
+  - asystemforwriting
+  - howtostartazettelkasten
 ---
 stamp 202503291115
 

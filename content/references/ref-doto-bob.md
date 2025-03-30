@@ -3,7 +3,6 @@ title: Doto, Bob
 draft: false
 tags:
   - bobdoto
-  - ref
 ---
 stamp 202503281953
 

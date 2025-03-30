@@ -5,7 +5,6 @@ tags:
   - steigerwaldkrisztián
   - generations
   - generationsresearch
-  - ref
 ---
 stamp 202503302027
 
