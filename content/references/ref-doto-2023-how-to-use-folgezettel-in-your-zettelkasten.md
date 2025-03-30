@@ -4,6 +4,7 @@ draft: false
 tags:
   - bobdoto
   - folgezettel
+  - ref
 ---
 stamp 202503281955
 
