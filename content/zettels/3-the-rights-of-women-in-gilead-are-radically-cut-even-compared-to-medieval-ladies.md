@@ -1,5 +1,5 @@
 ---
-title: The rights of women in Gilead are radically cut even compared to medieval ladies
+title: 3 The rights of women in Gilead are radically cut even compared to medieval ladies
 draft: false
 tags:
   - gileadwomen

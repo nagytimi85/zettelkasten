@@ -1,5 +1,5 @@
 ---
-title: Equal voting rights in Hungary is only 80 years old in 2025
+title: 3a Equal voting rights in Hungary is only 80 years old in 2025
 draft: false
 tags:
   - votingrights
