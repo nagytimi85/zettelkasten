@@ -22,6 +22,7 @@ This is the mindset I aim to have with my Zettelkasten.
 - I envy [[ref-doto-bob|Bob Doto]]'s ease in just starting things without the pressure to finish all of them. 
 - My therapist encouraged me to dig deeper into my maximalism, where it is coming from and what is my subconscious getting from it.
 	- Further related is parts language and internal family systems. 
+- [[ref-gilbert-elizabeth|Elizabeth Gilbert]]'s Job, Hobby, Carreer, Vocation Youtube video giving the advice not to burden your hobby with the expectation of it needing to sustain you. You are an adult, you need to have a job and sustain yourself _and_ your hobby, not the other way around. 
 
 ---
 # Technical links
