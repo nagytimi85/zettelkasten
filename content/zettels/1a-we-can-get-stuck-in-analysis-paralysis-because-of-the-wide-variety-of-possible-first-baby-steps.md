@@ -14,8 +14,6 @@ Whether it is about self-help, learning, time management, housekeeping or any to
 
 The trap in this is that we can get stuck into analysis paralysis already before taking the first baby step. 
 
-Rengeteg népszerű oktató azon dolgozik, hogy könnyen alkalmazható módszereket, egyszerű és intuitív baby stepeket fogalmazzon meg az önfejlesztés, tudásmenedzsment, időmenedzsment, háztartásvezetés, stb. terén. 
-
 
 ---
 

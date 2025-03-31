@@ -27,7 +27,7 @@ These are common ways to slow down and make room for deeper thinking.
 - Friction in keeping a Zettelkasten can be good thing. 
 - When I looked for snail mail partners, my friends didn't just start to correspond with me, but also with each other. 
 - The Morning Pages technique suggested by Julia Cameron
-- Krisztián Steigerwald says gen Y and Z, unlike previous generations, did not learn to wait: [[3b1a-gen-y-and-z-did-not-learn-to-wait]]
+- Krisztián Steigervald says gen Y and Z, unlike previous generations, did not learn to wait: [[3b1a-gen-y-and-z-did-not-learn-to-wait]]
 
 
 ---

@@ -45,3 +45,4 @@ Since English is my second language, using it makes me simplify my message.
 - [[0-root]]
 - [[1a-we-can-get-stuck-in-analysis-paralysis-because-of-the-wide-variety-of-possible-first-baby-steps]]
 - [[1b-the-first-card-of-a-zettelkasten-is-usually-niche]]
+- [[1c-calling-it-a-digital-garden-is-a-good-reminder-that-one-can-keep-a-zettelkasten-just-for-the-joy-of-keeping-it]]

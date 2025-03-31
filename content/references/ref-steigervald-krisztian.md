@@ -1,10 +1,10 @@
 ---
-title: Steigerwald, Krisztián
+title: Steigervald, Krisztián
 draft: false
 tags:
-  - steigerwaldkrisztián
   - generations
   - generationsresearch
+  - steigervaldkrisztián
 ---
 stamp 202503302027
 
