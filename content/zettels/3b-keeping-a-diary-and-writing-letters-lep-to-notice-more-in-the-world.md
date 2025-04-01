@@ -25,6 +25,7 @@ Uncle Józsi associates it with a "manly way of will and vision", but overall, i
 - Writing letters and keeping a diary are kind of a lost art of sharpening one's mind and supporting one's understanding of the world in 2025. [[3b1-with-the-freedom-of-internet-communication-we-lost-the-will-to-slow-down-and-write-diary-entries-and-letters]]
 - Snail mails are a worthy thing to resurrect.
 - One's quest on Earth doesn't end with becoming a mother. 
+- Analog to writing letters and keeping a diary, prayer can be an occassion for meditation and understanding for many. For a touching illustration, see how the young pope teaches Esther to pray: [[4a-it-s-up-to-us-how-we-call-the-whispering-voice-in-our-ears-god-satan-madonna-the-universe-or-anything-else]]
 
 ---
 # Technical links

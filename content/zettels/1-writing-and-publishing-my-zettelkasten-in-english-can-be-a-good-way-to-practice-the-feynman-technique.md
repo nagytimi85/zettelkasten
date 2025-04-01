@@ -32,6 +32,7 @@ Since English is my second language, using it makes me simplify my message.
 
 - The constant dilemma of writing in my native or writing in English
 - The pros and cons of performative writing
+- Calling my Zettelkasten a digital garden could be a good reminder that it doesn't have to do more than the joy of keeping it: [[1c-calling-it-a-digital-garden-is-a-good-reminder-that-one-can-keep-a-zettelkasten-just-for-the-joy-of-keeping-it]]
 - Other learning techniques
 - What is a Zettelkasten
 - How can you start a Zettelkasten? (With a niche idea, and go from there): [[1b-the-first-card-of-a-zettelkasten-is-usually-niche]]

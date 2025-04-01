@@ -18,6 +18,7 @@ This is the mindset I aim to have with my Zettelkasten.
 ---
 # Related
 
+- About the decision of starting my public Zettelkasten: [[1-writing-and-publishing-my-zettelkasten-in-english-can-be-a-good-way-to-practice-the-feynman-technique]]
 - Luhmann called his a septic tank. My mother-in-law called a corner of her garden a "duzzasztó". This is a good analogy for further discussion.
 - I envy [[ref-doto-bob|Bob Doto]]'s ease in just starting things without the pressure to finish all of them. 
 - My therapist encouraged me to dig deeper into my maximalism, where it is coming from and what is my subconscious getting from it.
