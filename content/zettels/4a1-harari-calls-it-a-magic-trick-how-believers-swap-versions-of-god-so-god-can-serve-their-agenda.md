@@ -18,7 +18,7 @@ This is the way to use God for whatever purpose we want to.
 ---
 # Related
 
-- Harari describes two very distinct and contradictory versions of God in this chapter. I call them the god of the campfire and the god of the burning pyre. 
+- Harari describes two very distinct and contradictory versions of God in this chapter. I call them the god of the campfire and the god of the burning pyre. [[4a1a-i-call-harari-s-two-gods-the-god-of-the-campfire-and-the-god-of-the-burning-pyre]]
 - Harari says in Sapiens, that our stories (including myths like God) are so essential to our human nature, that without stories, we wouldn't be human
 - Harari shows in Sapiens, how gods and God grew together with humanity - from local spirits to a universal, world-dominating One God. 
 
@@ -26,3 +26,4 @@ This is the way to use God for whatever purpose we want to.
 # Technical links
 
 - [[4a-it-s-up-to-us-how-we-call-the-whispering-voice-in-our-ears-god-satan-madonna-the-universe-or-anything-else]]
+- [[4a1a-i-call-harari-s-two-gods-the-god-of-the-campfire-and-the-god-of-the-burning-pyre]]
