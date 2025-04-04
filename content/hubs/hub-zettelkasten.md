@@ -14,7 +14,7 @@ stamp 202504041836
 
 ## What do we call a Zettelkasten:
 
-- A digital garden: [[1c1-nick-milo-calls-his-interlinked-notes-collection-his-ideaverse]]
+- A digital garden: [[1c-calling-it-a-digital-garden-is-a-good-reminder-that-one-can-keep-a-zettelkasten-just-for-the-joy-of-keeping-it]]
 - An ideaverse: [[1c1-nick-milo-calls-his-interlinked-notes-collection-his-ideaverse]]
 
 
@@ -28,7 +28,9 @@ stamp 202504041836
 ---
 # This reminds me of
 
-
+- For other topics, browse my OmniHub, the hub of all hubs: [[0a-omnihub]]
 
 ---
 # Technical links
+
+- [[0a-omnihub]]
