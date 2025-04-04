@@ -13,7 +13,7 @@ Keeping handwritten diaries and exchanging snail mail is a lost and found hobby 
 An unescapable reality for pre-internet generations, an optional hobby for internet generations: finding the joy in writing letters by hand, the rituals of writing and sending letters, and waiting for the answers via the postal service that's "slow like a snail". 
 
 ---
-# Related
+# This reminds me of
 
 
 

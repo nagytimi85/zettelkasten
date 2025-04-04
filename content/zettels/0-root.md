@@ -20,7 +20,7 @@ This is the root note for my public Zettelkasten, from where you can start brows
 
 ---
 
-# Related 
+# This reminds me of 
 
 - For the topical hub, see the Omnihub of this Zettelkasten: [[0a-omnihub]]
 - Why do I manually assign UID's in a digital system, when the system gives my notes a UID anyway?

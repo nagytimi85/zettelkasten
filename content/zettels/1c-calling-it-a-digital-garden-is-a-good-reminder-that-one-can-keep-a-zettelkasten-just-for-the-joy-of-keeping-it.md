@@ -16,16 +16,19 @@ I deal with maximalism (stemming from my mother) and it's important to remind my
 This is the mindset I aim to have with my Zettelkasten.
 
 ---
-# Related
+# This reminds me of
 
 - About the decision of starting my public Zettelkasten: [[1-writing-and-publishing-my-zettelkasten-in-english-can-be-a-good-way-to-practice-the-feynman-technique]]
 - Luhmann called his a septic tank. My mother-in-law called a corner of her garden a "duzzasztó". This is a good analogy for further discussion.
 - I envy [[ref-doto-bob|Bob Doto]]'s ease in just starting things without the pressure to finish all of them. 
 - My therapist encouraged me to dig deeper into my maximalism, where it is coming from and what is my subconscious getting from it.
 	- Further related is parts language and internal family systems. 
-- [[ref-gilbert-elizabeth|Elizabeth Gilbert]]'s Job, Hobby, Carreer, Vocation Youtube video giving the advice not to burden your hobby with the expectation of it needing to sustain you. You are an adult, you need to have a job and sustain yourself _and_ your hobby, not the other way around. 
+- [[ref-gilbert-elizabeth|Elizabeth Gilbert]]'s [[ref-gilbert-2017-distinguising-between-hobbies-jobs-carreers-and-vocation|Job, Hobby, Career, Vocation Youtube video]] giving the advice not to burden your hobby with the expectation of it needing to sustain you. You are an adult, you need to have a job and sustain yourself _and_ your hobby, not the other way around. 
+- A relationship graph is a rhizome just like a Zettelkasten. [[1c2-a-relationship-graph-is-a-rhizome]]
 
 ---
 # Technical links
 
 - [[1-writing-and-publishing-my-zettelkasten-in-english-can-be-a-good-way-to-practice-the-feynman-technique]]
+- [[1c1-nick-milo-calls-his-interlinked-notes-collection-his-ideaverse]]
+- [[1c2-a-relationship-graph-is-a-rhizome]]

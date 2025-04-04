@@ -9,7 +9,7 @@ stamp 202503302019
 
 ---
 
-Krisztián Steigervald shared on one of his workshops that in his opinion, one of the most important characteristics setting generations Y and Z apart from earlier generations is the weakening of the ability to wait. This comes from childhood experiences, when earlier generations were forced to wait for things that came way faster or even instantly for gen Y's and Z's. 
+[[ref-steigervald-krisztian|Krisztián Steigervald]] shared on one of his workshops that in his opinion, one of the most important characteristics setting generations Y and Z apart from earlier generations is the weakening of the ability to wait. This comes from childhood experiences, when earlier generations were forced to wait for things that came way faster or even instantly for gen Y's and Z's. 
 
 Some examples:
 - waiting for the mail - waiting for letters and postcards
@@ -18,7 +18,7 @@ Some examples:
 
 
 ---
-# Related
+# This reminds me of
 
 - The grandpa in Interstellar is gen Y. He says that his childhood, when "every day was Christmas with something new and shiny" wasn't so good.
 	- Research shows (source?) that gen Y will be the first generation living worse than their parents

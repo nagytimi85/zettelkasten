@@ -41,7 +41,7 @@ From s01e04:
 - Watch the scene on Youtube: https://www.youtube.com/watch?v=mSKb5F1GuzY
 
 ---
-# Related
+# This reminds me of
 
 - Ex-mormons often point out the quirky nature of how difficult it is as an LDS person (and certainly as other Christians too) to differentiate between the voice of Satan, the Holy Ghost and one's inner voice. 
 - Harari calls the two different versions of God the "cosmic mystery" and the "worldly lawmaker" - I call them (using his words) the "god of the campfire" and the "god of the burning pyres". [[4a1a-i-call-harari-s-two-gods-the-god-of-the-campfire-and-the-god-of-the-burning-pyre]]

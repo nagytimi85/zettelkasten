@@ -19,7 +19,7 @@ Historically, a good Dachshund was small enough to get into a badger or fox den,
 This is a great example of the survival of the fittest, illustrating that "fit" doesn't mean physically fit, but the one best fitting into their environment.
 
 ---
-# Related
+# This reminds me of
 
 - The original discussion on reddit: [https://www.reddit.com/r/Dachshund/s/LPGpNDwHi6](https://www.reddit.com/r/Dachshund/s/LPGpNDwHi6)
 - Survival of the fittest in an office environment often means that the seemingly most useless coworkers survive, because they still possess non-work-related attributes that make them fit best into their environment.

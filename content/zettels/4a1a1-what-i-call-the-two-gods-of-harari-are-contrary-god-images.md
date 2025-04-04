@@ -16,7 +16,7 @@ This is how they are different:
 
 | The god of the campfire                                                     | The god of the burning pyre                                                                              |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| "a grand and awesome enigma"                                                | "a stern and worldly lawgive"                                                                            |
+| "a grand and awesome enigma"                                                | "a stern and worldly lawgiver"                                                                           |
 | "we know absolutely nothing about it"                                       | "we know only too much about him"                                                                        |
 | "what is life all about?"                                                   | what is the truth and the law?                                                                           |
 | "this is the God of the philosophers"                                       | "this is the God of the crusaders and jihadists, of the inquisitors, the misogynists and the homophobes" |
@@ -25,7 +25,7 @@ This is how they are different:
 
 
 ---
-# Related
+# This reminds me of
 
 - I call Harari's two gods (using his words) the god of the campfire and the god of the burning pyre: [[4a1a-i-call-harari-s-two-gods-the-god-of-the-campfire-and-the-god-of-the-burning-pyre]]
 - People often play magic tricks swapping these two gods, while they are not at all interchangeable, right the contrary. [[4a1-harari-calls-it-a-magic-trick-how-believers-swap-versions-of-god-so-god-can-serve-their-agenda]]

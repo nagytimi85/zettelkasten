@@ -23,7 +23,7 @@ Using his words, I call these two gods the god of the campfire and the god of th
 > "On other occasions people see God as a stern and worldly lawgiver, about whom we know only too much. We know exactly what He thinks about fashion, food, sex and politics, and we invoke this Angry Man in the Sky to justify a million regulations, decrees and conflicts. (...) The most fundamental characteristic of this worldly lawgiver is that we can say extremely concrete things about Him. This is the God of the crusaders and jihadists, of the inquisitors, the misogynists and the homophobes. This is the God we talk about when we stand around a burning pyre, hurling stones and abuses at the heretics being grilled there."
 
 ---
-# Related
+# This reminds me of
 
 - I wrote about Harari's two gods on my KNT blog (in Hungarian): https://kocsisnagytimea.wordpress.com/2023/09/18/tabortuz-maglya-istene/
 - For a detailed comparison of the two gods, see: [[4a1a1-what-i-call-the-two-gods-of-harari-are-contrary-god-images]]

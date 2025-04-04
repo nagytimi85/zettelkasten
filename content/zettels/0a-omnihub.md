@@ -13,12 +13,11 @@ stamp 202503281657
 
 This page is the hub of all hubs, the map of content of all maps of content, the structure note for all structure notes.
 
-
-_(No hubs yet, stay tuned.)_
+- [[hub-zettelkasten]]
 
 
 ---
 
-# Related 
+# This reminds me of 
 
 - For the technical hub, see the Root file of this public Zettelkasten: [[0-root]]
