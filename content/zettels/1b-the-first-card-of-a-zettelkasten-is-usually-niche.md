@@ -21,7 +21,7 @@ Rather, the first thing you put in it is just a random idea that's right in fron
 
 
 ---
-# This reminds me of
+# Related
 
 - How Scott Scheper's use of top level categories made me miserable: [[1b1-scott-scheper-s-suggestion-to-build-your-zettelkasten-numbering-system-on-the-outline-of-academic-disciplines-is-confusing]]
 - The reason I am so drawn to the idea of a Zettelkasten is because in my ADHD brain, there are loosely associated, wild chains of thoughts running all the time.

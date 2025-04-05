@@ -21,7 +21,7 @@ Contrary to this, in the fictive fundamentalist state of Gilead, even the highes
  
 
 ---
-# This reminds me of
+# Related
 
 - Radical fundamentalist tendencies and the longing for the "good old days" sadly is a significant sentiment in today's global and local (Hungarian) politics. 
 - The treatment of Gilead women is comperable for Afghan women's treatment by the Taliban. 

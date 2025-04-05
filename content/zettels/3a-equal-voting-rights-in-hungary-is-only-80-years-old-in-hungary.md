@@ -22,7 +22,7 @@ It's worth keeping in mind how young these rights are.
 
 
 ---
-# This reminds me of
+# Related
 
 - Women's rights in the fictional world of Gilead: [[3-the-rights-of-women-in-gilead-are-radically-cut-even-compared-to-medieval-ladies]] 
 	- See the thoughts of Fred Waterford in The Handmaid's Tale about women's equal rights being just a short term whim

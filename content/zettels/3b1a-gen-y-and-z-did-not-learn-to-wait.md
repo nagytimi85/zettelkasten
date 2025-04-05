@@ -18,7 +18,7 @@ Some examples:
 
 
 ---
-# This reminds me of
+# Related
 
 - The grandpa in Interstellar is gen Y. He says that his childhood, when "every day was Christmas with something new and shiny" wasn't so good.
 	- Research shows (source?) that gen Y will be the first generation living worse than their parents

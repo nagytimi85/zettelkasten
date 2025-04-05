@@ -14,8 +14,9 @@ https://www.linkingyourthinking.com
 
 
 ---
-# This reminds me of
+# Related
 
+- For my Zettelkasten related notes, go to my Zettelkasten hub: [[hub-zettelkasten]]
 
 
 ---

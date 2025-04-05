@@ -11,7 +11,7 @@ stamp 202504041748
 [[ref-milo-nick|Nick Milo]] from [Linking Your Thinking](https://www.youtube.com/@linkingyourthinking) calls his interlinked notes collection his Ideaverse. 
 
 ---
-# This reminds me of
+# Related
 
 - Nick Milo said in his "If I Had to Start Over" video that a wikipedia is a wikipedia for the outer world and an ideaverse is a wikipedia for our inner world
 - An interlinked notes collection (with a few other characteristics) is a Zettelkasten. 

@@ -16,7 +16,7 @@ This story illustrates well what witchcraft is in my interpretation. Mindfulness
 
 
 ---
-# This reminds me of
+# Related
 
 - [[ref-harari-yuval-noah|Harari]] says God doesn’t care what we call them
 - One of my favorite scenes in The Young Pope is when the pope explains "what we call the voice of God"

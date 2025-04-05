@@ -26,7 +26,7 @@ So I strongly suggest not to start there, but rather check out [[ref-doto-bob|Bo
 
 
 ---
-# This reminds me of
+# Related
 
 - You start a notes network (a Luhmannian Zettelkasten, or a digital garden) with a niche idea, and you build from there via associations: [[1b-the-first-card-of-a-zettelkasten-is-usually-niche]]
 - How the oppositional nature of Scott Scheper's ANTI-net concept represents Scott's personality and illustrates perfectly why I have a beef with him. 

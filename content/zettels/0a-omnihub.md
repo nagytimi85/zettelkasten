@@ -18,6 +18,6 @@ This page is the hub of all hubs, the map of content of all maps of content, the
 
 ---
 
-# This reminds me of 
+# Related 
 
 - For the technical hub, see the Root file of this public Zettelkasten: [[0-root]]

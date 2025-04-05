@@ -28,7 +28,7 @@ Since English is my second language, using it makes me simplify my message.
 
 ---
 
-# This reminds me of 
+# Related
 
 - The constant dilemma of writing in my native or writing in English
 - The pros and cons of performative writing

@@ -20,7 +20,7 @@ In a collection of family letters  ([Csáth, Géza: 1000x ölel Józsi – Csal�
 Uncle Józsi associates it with a "manly way of will and vision", but overall, it's a solid advice that "one's quest on Earth doesn't end with becoming a mother."
 
 ---
-# This reminds me of
+# Related
 
 - Writing letters and keeping a diary are kind of a lost art of sharpening one's mind and supporting one's understanding of the world in 2025. [[3b1-with-the-freedom-of-internet-communication-we-lost-the-will-to-slow-down-and-write-diary-entries-and-letters]]
 - Snail mails are a worthy thing to resurrect.

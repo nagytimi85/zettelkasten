@@ -16,7 +16,7 @@ I deal with maximalism (stemming from my mother) and it's important to remind my
 This is the mindset I aim to have with my Zettelkasten.
 
 ---
-# This reminds me of
+# Related
 
 - About the decision of starting my public Zettelkasten: [[1-writing-and-publishing-my-zettelkasten-in-english-can-be-a-good-way-to-practice-the-feynman-technique]]
 - Luhmann called his a septic tank. My mother-in-law called a corner of her garden a "duzzasztó". This is a good analogy for further discussion.

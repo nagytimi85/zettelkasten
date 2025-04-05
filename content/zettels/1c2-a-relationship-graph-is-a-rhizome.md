@@ -18,7 +18,7 @@ Then I entered the relationship net from the person we all knew and explained th
 Rhizomes are like that: you can enter at any point and discover the net starting from there.
 
 ---
-# This reminds me of
+# Related
 
 - [[ref-doto-bob|Bob Doto]] used the term rhizomes in his book [[ref-doto-2024-a-system-for-writing|A System for Writing]] to describe Zettelkastens. 
 - Polyamorous relationships create quite an interesting graph. But it also can be interesting to draw up our own relationship graph of friends and family. 

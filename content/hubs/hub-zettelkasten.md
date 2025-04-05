@@ -26,7 +26,7 @@ stamp 202504041836
 
 
 ---
-# This reminds me of
+# Related
 
 - For other topics, browse my OmniHub, the hub of all hubs: [[0a-omnihub]]
 
