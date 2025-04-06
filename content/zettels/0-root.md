@@ -17,6 +17,7 @@ This is the root note for my public Zettelkasten, from where you can start brows
 - [[2-survival-of-the-fittest-dachshund-today-means-that-they-need-to-be-cute-and-easy-to-carry-up-and-down-stairs]]
 - [[3-the-rights-of-women-in-gilead-are-radically-cut-even-compared-to-medieval-ladies]]
 - [[4-an-observant-girl-reported-for-witchcraft-perfectly-illustrates-what-i-think-witchcraft-is]]
+- [[5-a-star-wars-reference-popped-up-in-the-closing-arguments-of-the-florida-vs-sarah-boone-murder-trial]]
 
 ---
 
