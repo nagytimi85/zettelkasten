@@ -1,5 +1,5 @@
 ---
-title: Nick Milo calls his interlinked notes collection his Ideaverse
+title: 1c1 Nick Milo calls his interlinked notes collection his Ideaverse
 draft: false
 tags:
   - ideaverse
