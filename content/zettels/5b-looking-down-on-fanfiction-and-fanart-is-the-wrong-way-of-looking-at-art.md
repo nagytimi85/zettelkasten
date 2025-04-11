@@ -2,6 +2,8 @@
 title: 5b Looking down on fanfiction and fanart is the wrong way of looking at art
 draft: false
 tags:
+  - fanfiction
+  - fanart
 ---
 stamp 202504061927
 
@@ -27,3 +29,4 @@ We (at least we in the West) couldn't recognise the past and present around us i
 # Technical links
 
 - [[5-a-star-wars-reference-popped-up-in-the-closing-arguments-of-the-florida-vs-sarah-boone-murder-trial]]
+- [[5b1-stories-are-so-essential-that-without-it-we-wouldn-t-even-be-human-harari-says]]
