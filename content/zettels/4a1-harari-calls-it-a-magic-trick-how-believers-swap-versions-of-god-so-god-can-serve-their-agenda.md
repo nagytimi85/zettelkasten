@@ -23,7 +23,7 @@ This is the way to use God for whatever purpose we want to.
 - Harari shows in Sapiens, how gods and God grew together with humanity - from local spirits to a universal, world-dominating One God. 
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[4a-it-s-up-to-us-how-we-call-the-whispering-voice-in-our-ears-god-satan-madonna-the-universe-or-anything-else]]
 - [[4a1a-i-call-harari-s-two-gods-the-god-of-the-campfire-and-the-god-of-the-burning-pyre]]

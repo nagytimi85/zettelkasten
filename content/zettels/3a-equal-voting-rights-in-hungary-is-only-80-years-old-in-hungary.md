@@ -31,6 +31,6 @@ It's worth keeping in mind how young these rights are.
 	- In 2025, Hungarian Government is trying to restrict the freedom of assembly in Hungary. 
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[3-the-rights-of-women-in-gilead-are-radically-cut-even-compared-to-medieval-ladies]]

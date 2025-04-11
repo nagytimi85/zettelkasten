@@ -24,7 +24,7 @@ This story illustrates well what witchcraft is in my interpretation. Mindfulness
 - The term SASSY Witch fits me (SASS being short for sceptical, agnostic, science seeking)
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[0-root]]
 - [[4a-it-s-up-to-us-how-we-call-the-whispering-voice-in-our-ears-god-satan-madonna-the-universe-or-anything-else]]

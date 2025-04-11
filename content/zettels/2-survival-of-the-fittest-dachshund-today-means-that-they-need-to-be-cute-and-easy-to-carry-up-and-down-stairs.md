@@ -25,6 +25,6 @@ This is a great example of the survival of the fittest, illustrating that "fit" 
 - Survival of the fittest in an office environment often means that the seemingly most useless coworkers survive, because they still possess non-work-related attributes that make them fit best into their environment.
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[0-root]]

@@ -33,7 +33,7 @@ Using his words, I call these two gods the god of the campfire and the god of th
 - Modern spiritualism often operates with the god of the campfires, while organised religion needs the god of the burning pyre to operate
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[4a1-harari-calls-it-a-magic-trick-how-believers-swap-versions-of-god-so-god-can-serve-their-agenda]]
 - [[4a1a1-what-i-call-the-two-gods-of-harari-are-contrary-god-images]]

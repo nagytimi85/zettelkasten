@@ -20,6 +20,6 @@ This quote
 - Labels can help us connect. 
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[5b1-stories-are-so-essential-that-without-it-we-wouldn-t-even-be-human-harari-says]]

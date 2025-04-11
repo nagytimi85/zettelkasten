@@ -25,6 +25,6 @@ An unescapable reality for pre-internet generations, an optional hobby for inter
 
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[3b1a-gen-y-and-z-did-not-learn-to-wait]]

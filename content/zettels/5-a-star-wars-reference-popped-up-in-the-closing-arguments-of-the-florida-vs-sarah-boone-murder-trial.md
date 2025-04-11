@@ -28,7 +28,7 @@ After this, the prosecutor translates this understanding to the case of Sarah Bo
 - A challenge in the Sarah Boone case was to find the moment when consensual play turned into a murderous act. [[5a-one-special-element-of-the-sarah-boone-case-was-that-it-was-hard-to-find-the-moment-when-consensual-play-became-intentional-murder]]
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[0-root]]
 - [[5a-one-special-element-of-the-sarah-boone-case-was-that-it-was-hard-to-find-the-moment-when-consensual-play-became-intentional-murder]]

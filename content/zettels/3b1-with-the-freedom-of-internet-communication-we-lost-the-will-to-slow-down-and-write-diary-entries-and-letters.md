@@ -31,7 +31,7 @@ These are common ways to slow down and make room for deeper thinking.
 
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[3b-keeping-a-diary-and-writing-letters-lep-to-notice-more-in-the-world]]
 - [[3b1a-gen-y-and-z-did-not-learn-to-wait]]

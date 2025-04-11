@@ -33,6 +33,7 @@ Since English is my second language, using it makes me simplify my message.
 - The constant dilemma of writing in my native or writing in English
 - The pros and cons of performative writing
 - Calling my Zettelkasten a digital garden could be a good reminder that it doesn't have to do more than the joy of keeping it: [[1c-calling-it-a-digital-garden-is-a-good-reminder-that-one-can-keep-a-zettelkasten-just-for-the-joy-of-keeping-it]]
+- Publishing my notes is also a way of practicing kindness towards myself by validating my work and fighting maximalism and self-critique: [[1c3-publishing-my-zettels-is-a-way-of-practicing-kindness-towards-myself]]
 - Other learning techniques
 - What is a Zettelkasten
 - How can you start a Zettelkasten? (With a niche idea, and go from there): [[1b-the-first-card-of-a-zettelkasten-is-usually-niche]]
@@ -41,7 +42,7 @@ Since English is my second language, using it makes me simplify my message.
 
 ---
 
-# Technical links
+# Folgezettel links
 
 - [[0-root]]
 - [[1a-we-can-get-stuck-in-analysis-paralysis-because-of-the-wide-variety-of-possible-first-baby-steps]]

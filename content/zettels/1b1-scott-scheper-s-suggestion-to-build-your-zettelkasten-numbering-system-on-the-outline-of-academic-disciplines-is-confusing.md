@@ -33,6 +33,6 @@ So I strongly suggest not to start there, but rather check out [[ref-doto-bob|Bo
 	- Similar to Scott's fall from grace in my eyes is how I'm still kinda obsessed with the Mormon Church (LDS Church) after they tried to recruit me while I was grieving my mother
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[1b-the-first-card-of-a-zettelkasten-is-usually-niche]]

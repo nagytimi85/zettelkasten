@@ -42,6 +42,6 @@ For enriching our net of linked notes:
 - Baby steps can be daunting: [[1a-we-can-get-stuck-in-analysis-paralysis-because-of-the-wide-variety-of-possible-first-baby-steps]]
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[1a-we-can-get-stuck-in-analysis-paralysis-because-of-the-wide-variety-of-possible-first-baby-steps]]

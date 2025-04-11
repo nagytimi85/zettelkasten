@@ -31,7 +31,7 @@ Contrary to this, in the fictive fundamentalist state of Gilead, even the highes
 
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[0-root]]
 - [[3a-equal-voting-rights-in-hungary-is-only-80-years-old-in-hungary]]

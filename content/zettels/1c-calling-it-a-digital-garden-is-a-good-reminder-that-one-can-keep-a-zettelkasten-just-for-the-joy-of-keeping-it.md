@@ -27,8 +27,9 @@ This is the mindset I aim to have with my Zettelkasten.
 - A relationship graph is a rhizome just like a Zettelkasten. [[1c2-a-relationship-graph-is-a-rhizome]]
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[1-writing-and-publishing-my-zettelkasten-in-english-can-be-a-good-way-to-practice-the-feynman-technique]]
 - [[1c1-nick-milo-calls-his-interlinked-notes-collection-his-ideaverse]]
 - [[1c2-a-relationship-graph-is-a-rhizome]]
+- [[1c3-publishing-my-zettels-is-a-way-of-practicing-kindness-towards-myself]]

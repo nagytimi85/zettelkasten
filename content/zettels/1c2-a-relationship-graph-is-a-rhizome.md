@@ -26,6 +26,6 @@ Rhizomes are like that: you can enter at any point and discover the net starting
 
 
 ---
-# Technical links
+# Folgezettel links
 
 [[1c-calling-it-a-digital-garden-is-a-good-reminder-that-one-can-keep-a-zettelkasten-just-for-the-joy-of-keeping-it]]

@@ -30,7 +30,7 @@ Stories make it possible for us, to trust and cooperate with people we have no p
 
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[5b-looking-down-on-fanfiction-and-fanart-is-the-wrong-way-of-looking-at-art]]
 - [[5b1a-humans-think-in-stories-rather-than-in-facts-and-every-group-has-its-own-tales]]

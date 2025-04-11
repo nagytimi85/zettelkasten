@@ -50,7 +50,7 @@ From s01e04:
 - Gretchen Rubin in The Happiness Project had a nice quote about how a study called prayer a solitary activity, yet, the meaning of prayer for many is that they are not talking to themselves. 
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[4-an-observant-girl-reported-for-witchcraft-perfectly-illustrates-what-i-think-witchcraft-is]]
 - [[4a1-harari-calls-it-a-magic-trick-how-believers-swap-versions-of-god-so-god-can-serve-their-agenda]]

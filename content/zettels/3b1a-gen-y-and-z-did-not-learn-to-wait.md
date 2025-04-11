@@ -26,7 +26,7 @@ Some examples:
 - A critique of Steigervald's work is that he generalises to much, too speculative, and often forcefully tries to line up Hungarian reality with trends drawn from international research. 
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[3b1-with-the-freedom-of-internet-communication-we-lost-the-will-to-slow-down-and-write-diary-entries-and-letters]]
 - [[3b1a1-snail-mail-is-a-lost-and-found-hobby-for-the-internet-generations]]

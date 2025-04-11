@@ -35,6 +35,6 @@ This is how they are different:
 
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[4a1a-i-call-harari-s-two-gods-the-god-of-the-campfire-and-the-god-of-the-burning-pyre]]

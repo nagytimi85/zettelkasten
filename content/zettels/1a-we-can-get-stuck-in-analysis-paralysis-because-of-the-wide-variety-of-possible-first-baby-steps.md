@@ -23,7 +23,7 @@ The trap in this is that we can get stuck into analysis paralysis already before
 - How I was misguided by the fact that Scott Scheper's was the only from-card-one video guide I found about the Zettelkasten method: [[1b1-scott-scheper-s-suggestion-to-build-your-zettelkasten-numbering-system-on-the-outline-of-academic-disciplines-is-confusing]]
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[1-writing-and-publishing-my-zettelkasten-in-english-can-be-a-good-way-to-practice-the-feynman-technique]]
 - [[1a1-the-knowledge-flower-and-idea-compass-tools-have-beginner-friendly-alternatives]]

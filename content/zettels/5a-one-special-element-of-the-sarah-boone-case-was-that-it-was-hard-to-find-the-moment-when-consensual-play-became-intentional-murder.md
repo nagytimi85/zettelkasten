@@ -27,6 +27,6 @@ It was hard to find the moment when the consensual drunken play became an intent
 - In the Florida vs Sarah Boone case it was clearly and sadly presented, how men too can become victims of domestic abuse and battered spouses. 
 
 ---
-# Technical links
+# Folgezettel links
 
 - [[5-a-star-wars-reference-popped-up-in-the-closing-arguments-of-the-florida-vs-sarah-boone-murder-trial]]
