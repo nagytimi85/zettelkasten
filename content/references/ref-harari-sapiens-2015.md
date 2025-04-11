@@ -14,7 +14,7 @@ Harari, Yuval Noah. Sapiens: A Brief History of Humankind. London: Vintage, 2015
 # Related
 
 - [[ref-harari-yuval-noah]]
-- [[ref-harari-2018-21-lessons-for-the-21st-century]]
+- [[ref-harari-21-lessons-for-the-21st-century-2018]]
 
 ---
 # Technical links

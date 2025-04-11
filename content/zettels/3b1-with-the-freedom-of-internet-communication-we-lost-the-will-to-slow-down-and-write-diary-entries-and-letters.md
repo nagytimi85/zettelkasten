@@ -28,6 +28,7 @@ These are common ways to slow down and make room for deeper thinking.
 - When I looked for snail mail partners, my friends didn't just start to correspond with me, but also with each other. 
 - The Morning Pages technique suggested by Julia Cameron
 - Krisztián Steigervald says gen Y and Z, unlike previous generations, did not learn to wait: [[3b1a-gen-y-and-z-did-not-learn-to-wait]]
+- Emily D. Baker said that people only cared for Ruby Franke's child abuse case because she was a famous family vlogger and there was a parasocial relationship between viewers and her family: [[5c-people-only-care-for-ruby-franke-s-child-abuse-case-because-she-was-a-famous-family-vlogger]]
 
 
 ---

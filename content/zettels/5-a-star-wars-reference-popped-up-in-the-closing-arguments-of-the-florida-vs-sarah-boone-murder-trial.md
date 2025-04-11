@@ -26,6 +26,7 @@ After this, the prosecutor translates this understanding to the case of Sarah Bo
 - Storytelling is a crucial part of criminal trials. 
 - Don't look down on fanfictions - living stories are a part of our culture. 
 - A challenge in the Sarah Boone case was to find the moment when consensual play turned into a murderous act. [[5a-one-special-element-of-the-sarah-boone-case-was-that-it-was-hard-to-find-the-moment-when-consensual-play-became-intentional-murder]]
+- Everything true crime in my Zettelkasten: [[hub-true-crime]]
 
 ---
 # Folgezettel links
@@ -33,3 +34,4 @@ After this, the prosecutor translates this understanding to the case of Sarah Bo
 - [[0-root]]
 - [[5a-one-special-element-of-the-sarah-boone-case-was-that-it-was-hard-to-find-the-moment-when-consensual-play-became-intentional-murder]]
 - [[5b-looking-down-on-fanfiction-and-fanart-is-the-wrong-way-of-looking-at-art]]
+- [[5c-people-only-care-for-ruby-franke-s-child-abuse-case-because-she-was-a-famous-family-vlogger]]

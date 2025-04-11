@@ -13,7 +13,7 @@ stamp 202504011958
 
 This is the way to use God for whatever purpose we want to. 
 
-> "Like a magician fooling an audience by imperceptibly replacing one card with another, the faithful quickly replace the cosmic mystery with the worldly lawgiver. After giving the name of ‘God’ to the unknown secrets of the cosmos, they then use this to somehow condemn bikinis and divorces. ‘We do not understand the Big Bang – therefore you must cover your hair in public and vote against gay marriage.’" - he says in his book [[ref-harari-2018-21-lessons-for-the-21st-century|21 Lessons for the 21st Century]]
+> "Like a magician fooling an audience by imperceptibly replacing one card with another, the faithful quickly replace the cosmic mystery with the worldly lawgiver. After giving the name of ‘God’ to the unknown secrets of the cosmos, they then use this to somehow condemn bikinis and divorces. ‘We do not understand the Big Bang – therefore you must cover your hair in public and vote against gay marriage.’" - he says in his book [[ref-harari-21-lessons-for-the-21st-century-2018|21 Lessons for the 21st Century]]
 
 ---
 # Related

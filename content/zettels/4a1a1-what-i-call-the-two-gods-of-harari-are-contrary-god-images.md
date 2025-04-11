@@ -10,7 +10,7 @@ stamp 202504032041
 
 ---
 
-[[ref-harari-yuval-noah|Harari]] in his book [[ref-harari-2018-21-lessons-for-the-21st-century|21 Lessons for the 21st Century]] describes two contradictory god images that [[4a1a-i-call-harari-s-two-gods-the-god-of-the-campfire-and-the-god-of-the-burning-pyre|I call the god of the campfire and the god of the burning pyre]]. 
+[[ref-harari-yuval-noah|Harari]] in his book [[ref-harari-21-lessons-for-the-21st-century-2018|21 Lessons for the 21st Century]] describes two contradictory god images that [[4a1a-i-call-harari-s-two-gods-the-god-of-the-campfire-and-the-god-of-the-burning-pyre|I call the god of the campfire and the god of the burning pyre]]. 
 
 This is how they are different: 
 

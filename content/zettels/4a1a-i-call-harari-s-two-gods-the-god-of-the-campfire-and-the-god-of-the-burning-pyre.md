@@ -10,7 +10,7 @@ stamp 202504021922
 
 ---
 
-[[ref-harari-yuval-noah|Harari]] in his book [[ref-harari-2018-21-lessons-for-the-21st-century|21 Lessons for the 21st Century]] juxtaposes two very different definitions of God, that people interchange freely as their agenda demands. 
+[[ref-harari-yuval-noah|Harari]] in his book [[ref-harari-21-lessons-for-the-21st-century-2018|21 Lessons for the 21st Century]] juxtaposes two very different definitions of God, that people interchange freely as their agenda demands. 
 
 Using his words, I call these two gods the god of the campfire and the god of the burning pyre. 
 

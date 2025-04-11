@@ -27,7 +27,7 @@ It's worth keeping in mind how young these rights are.
 - Women's rights in the fictional world of Gilead: [[3-the-rights-of-women-in-gilead-are-radically-cut-even-compared-to-medieval-ladies]] 
 	- See the thoughts of Fred Waterford in The Handmaid's Tale about women's equal rights being just a short term whim
 	- See the thoughts of Fred Waterford in The Handmaid's Tale about "better never is better for everyone, it has to be worse for some"
-- With the rise of fascism in the early 21st century, one can get the chilling feeling that many see [[ref-atwood-margaret|Margaret Atwood]]'s [[ref-atwood-1986-the-handmaid-s-tale|The Handmaid's Tale]] as a guide and not as a warning 
+- With the rise of fascism in the early 21st century, one can get the chilling feeling that many see [[ref-atwood-margaret|Margaret Atwood]]'s [[ref-atwood-the-handmaid-s-tale-1986|The Handmaid's Tale]] as a guide and not as a warning 
 	- In 2025, Hungarian Government is trying to restrict the freedom of assembly in Hungary. 
 
 ---

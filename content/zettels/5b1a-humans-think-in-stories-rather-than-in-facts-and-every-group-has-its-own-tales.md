@@ -8,7 +8,7 @@ tags:
 stamp 
 
 ---
-> "Humans think in stories rather than in facts, numbers or equations, and the simpler the story, the better. Every person, group and nation has its own tales and myths." - says [[ref-harari-yuval-noah|Yuval Noah Harari]] in his book [[ref-harari-2018-21-lessons-for-the-21st-century|21 Lessons for the 21st Century]].
+> "Humans think in stories rather than in facts, numbers or equations, and the simpler the story, the better. Every person, group and nation has its own tales and myths." - says [[ref-harari-yuval-noah|Yuval Noah Harari]] in his book [[ref-harari-21-lessons-for-the-21st-century-2018|21 Lessons for the 21st Century]].
 
 This quote
 - reinforces Harari's take on how important stories are for the human kind ([[5b1-stories-are-so-essential-that-without-it-we-wouldn-t-even-be-human-harari-says]]), and

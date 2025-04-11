@@ -20,7 +20,7 @@ Rhizomes are like that: you can enter at any point and discover the net starting
 ---
 # Related
 
-- [[ref-doto-bob|Bob Doto]] used the term rhizomes in his book [[ref-doto-2024-a-system-for-writing|A System for Writing]] to describe Zettelkastens. 
+- [[ref-doto-bob|Bob Doto]] used the term rhizomes in his book [[ref-doto-a-system-for-writing-2014|A System for Writing]] to describe Zettelkastens. 
 - Polyamorous relationships create quite an interesting graph. But it also can be interesting to draw up our own relationship graph of friends and family. 
 	- One can learn a lot about relationships and self-development from polyamorous folks, even if one is monogamous.
 

@@ -11,7 +11,7 @@ stamp 202504081838
 ---
 Stories have a core role in human cultures and societies. One can say that without stories, we wouldn't even be human. 
 
-[[ref-harari-yuval-noah|Yuval Noah Harari]] argues in his book [[ref-harari-2015-sapiens|Sapiens]] that human history is inseparable from human-told stories. 
+[[ref-harari-yuval-noah|Yuval Noah Harari]] argues in his book [[ref-harari-sapiens-2015|Sapiens]] that human history is inseparable from human-told stories. 
 
 Harari says that the most important pillars of a human civilisation are the common stories that make it possible for bigger groups to cooperate. These stories can come in the form of nation states, religions, laws, money, etc. 
 
