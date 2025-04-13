@@ -5,7 +5,7 @@ tags:
   - stories
   - humanstories
 ---
-stamp 
+stamp 202504081840
 
 ---
 > "Humans think in stories rather than in facts, numbers or equations, and the simpler the story, the better. Every person, group and nation has its own tales and myths." - says [[ref-harari-yuval-noah|Yuval Noah Harari]] in his book [[ref-harari-21-lessons-for-the-21st-century-2018|21 Lessons for the 21st Century]].
@@ -17,9 +17,10 @@ This quote
 ---
 # Related
 
-- Labels can help us connect. 
+- Labels can help us connect, but also to discriminate, disconnect. [[5b1a1-labels-can-help-both-to-connect-and-to-disconnect]]
 
 ---
 # Folgezettel links
 
 - [[5b1-stories-are-so-essential-that-without-it-we-wouldn-t-even-be-human-harari-says]]
+- [[5b1a1-labels-can-help-both-to-connect-and-to-disconnect]]

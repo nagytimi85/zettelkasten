@@ -5,7 +5,6 @@ tags:
   - rubyfrankecase
   - jodihildebrandtcase
 ---
-
 stamp 202504111815
 
 ---
