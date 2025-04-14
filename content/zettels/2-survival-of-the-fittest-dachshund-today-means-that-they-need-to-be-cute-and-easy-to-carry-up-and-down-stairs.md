@@ -23,6 +23,7 @@ This is a great example of the survival of the fittest, illustrating that "fit" 
 
 - The original discussion on reddit: [https://www.reddit.com/r/Dachshund/s/LPGpNDwHi6](https://www.reddit.com/r/Dachshund/s/LPGpNDwHi6)
 - Survival of the fittest in an office environment often means that the seemingly most useless coworkers survive, because they still possess non-work-related attributes that make them fit best into their environment.
+- My husband said once: "mi vagyunk a darwini kiválaszódás ökle" - "we are the fist of the Darwinian evolution", when talking about odd dog species. 
 
 ---
 # Folgezettel links

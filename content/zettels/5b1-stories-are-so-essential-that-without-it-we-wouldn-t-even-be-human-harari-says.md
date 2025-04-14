@@ -23,6 +23,7 @@ Stories make it possible for us, to trust and cooperate with people we have no p
 - Harari says that a good way to tell apart real things from imaginary things is: can the thing be destroyed? (Source?)
 - An example of how we tell different stories about God: [[4a1-harari-calls-it-a-magic-trick-how-believers-swap-versions-of-god-so-god-can-serve-their-agenda]]
 - Human thinking is story-based rather than facts-based. [[5b1a-humans-think-in-stories-rather-than-in-facts-and-every-group-has-its-own-tales]]
+- Stories can be condensed to labels that can either boost cooperation or create instant distrust, discrimination, disconnect between strangers. [[5b1a1-labels-can-help-both-to-connect-and-to-disconnect]]
 - In the Catholic Church, if one wants to be certified as a saint, one needs to have a popular story, a meme about them. 
 	- Probably the most prevalent example of Catholic memes is the legend of Saint Nicholas
 	- The Devil's Advocate term comes from the process of a saint being officially acknowledged. The case of the saint needs to be argued, and the one speaking "for the other side" is called the Devil's Advocate. 

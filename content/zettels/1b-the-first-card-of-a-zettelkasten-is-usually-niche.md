@@ -25,6 +25,8 @@ Rather, the first thing you put in it is just a random idea that's right in fron
 
 - How Scott Scheper's use of top level categories made me miserable: [[1b1-scott-scheper-s-suggestion-to-build-your-zettelkasten-numbering-system-on-the-outline-of-academic-disciplines-is-confusing]]
 - The reason I am so drawn to the idea of a Zettelkasten is because in my ADHD brain, there are loosely associated, wild chains of thoughts running all the time.
+- A Zettelkasten is a rhizome (just like a relationship graph). [[1c2-a-relationship-graph-is-a-rhizome]]
+- You can use hubs to access your notes in an organised way. You can start writing hub notes looking backward of looking forward. [[1b2-there-are-two-ways-to-start-a-hub-note-looking-back-or-looking-forward]]
 
 
 ---

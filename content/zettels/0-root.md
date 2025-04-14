@@ -24,6 +24,9 @@ This is the root note for my public Zettelkasten, from where you can start brows
 # Related 
 
 - For the topical hub, see the Omnihub of this Zettelkasten: [[0a-omnihub]]
+- Keep in mind, that a [[hub-zettelkasten|Zettelkasten]] [[1b1-scott-scheper-s-suggestion-to-build-your-zettelkasten-numbering-system-on-the-outline-of-academic-disciplines-is-confusing|isn't hierarchical]] but its strings [[1b-the-first-card-of-a-zettelkasten-is-usually-niche|start with niche ideas]] and go on by association chains. 
+	- [[1b-the-first-card-of-a-zettelkasten-is-usually-niche]]
+	- [[1b1-scott-scheper-s-suggestion-to-build-your-zettelkasten-numbering-system-on-the-outline-of-academic-disciplines-is-confusing]]
 - Why do I manually assign UID's in a digital system, when the system gives my notes a UID anyway?
 - What's the difference between the root and the omnihub? 
 
