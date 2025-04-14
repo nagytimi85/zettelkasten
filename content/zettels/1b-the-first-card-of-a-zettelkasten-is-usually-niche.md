@@ -34,3 +34,4 @@ Rather, the first thing you put in it is just a random idea that's right in fron
 
 - [[1-writing-and-publishing-my-zettelkasten-in-english-can-be-a-good-way-to-practice-the-feynman-technique]]
 - [[1b1-scott-scheper-s-suggestion-to-build-your-zettelkasten-numbering-system-on-the-outline-of-academic-disciplines-is-confusing]]
+- [[1b2-there-are-two-ways-to-start-a-hub-note-looking-back-or-looking-forward]]
