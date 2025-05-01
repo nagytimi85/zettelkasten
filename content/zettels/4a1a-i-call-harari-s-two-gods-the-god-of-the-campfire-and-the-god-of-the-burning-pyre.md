@@ -27,6 +27,7 @@ Using his words, I call these two gods the god of the campfire and the god of th
 
 - I wrote about Harari's two gods on my KNT blog (in Hungarian): https://kocsisnagytimea.wordpress.com/2023/09/18/tabortuz-maglya-istene/
 - For a detailed comparison of the two gods, see: [[4a1a1-what-i-call-the-two-gods-of-harari-are-contrary-god-images]]
+- Harari suggests to use language to differentiate between the two very different versions of God: [[4a1a3-to-avoid-mixing-up-two-very-different-versions-of-god-consciously-use-two-different-words-for-them]]
 - Harari juxtaposes spirituality and organised faith (I think in Sapiens) in a similar way.
 - Just as it's up to us on what we place the label God, it's up to us also what label we place on our spiritual experiences: [[4a-it-s-up-to-us-how-we-call-the-whispering-voice-in-our-ears-god-satan-madonna-the-universe-or-anything-else]]
 - It's insightful how Mayim Bialik, a scientist and observant Jew at the same time, interprets God. I touched upon it on my KNT blog (in Hungarian): https://kocsisnagytimea.wordpress.com/2023/09/11/muveszet-terapia/
@@ -37,3 +38,5 @@ Using his words, I call these two gods the god of the campfire and the god of th
 
 - [[4a1-harari-calls-it-a-magic-trick-how-believers-swap-versions-of-god-so-god-can-serve-their-agenda]]
 - [[4a1a1-what-i-call-the-two-gods-of-harari-are-contrary-god-images]]
+- [[4a1a2-talking-to-the-same-god-two-popes-still-can-disagree]]
+- [[4a1a3-to-avoid-mixing-up-two-very-different-versions-of-god-consciously-use-two-different-words-for-them]]

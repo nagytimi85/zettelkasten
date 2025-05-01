@@ -15,7 +15,7 @@ The cardinals didn’t want to keep shaking the Catholic Church by having a new 
 
 ## Will we have a next young pope?
 
-Before John Paul II, Paul VI reigned for 15 years, John Paul I only for 33 days. After him, Benedict XVI for nearly 8 years before stepping down, and Francis for 12 years until his death. 
+Before John Paul II, Paul VI reigned for 15 years, John Paul I only for 33 days. After him, Benedict XVI for nearly 8 years before stepping down, and [[ref-franciscus|Francis]] for 12 years until his death. 
 
 [[6-the-cardinals-strategy-regarding-francis-succession-can-set-the-path-for-decades-in-a-world-with-rising-authoritarianism-and-fascism|I wonder what will be the strategy for Francis' succession]] and if we will have a new young pope after Benedict and Francis. 
 

@@ -10,7 +10,7 @@ stamp 202503211905
 
 ---
 
-After Pope Francis passed away on Easter Sunday 2025 (may God rest his soul and keep his legacy), I wonder what strategies will the cardinals choose regarding his succession. 
+After [[ref-franciscus|Pope Francis]] passed away on Easter Sunday 2025 (may God rest his soul and keep his legacy), I wonder what strategies will the cardinals choose regarding his succession. 
 
 I wonder: will they pull another John Paul II? - [[6a-john-paul-ii-was-the-third-longest-reigning-pope-not-by-accident-but-by-strategy]]
 
