@@ -17,6 +17,7 @@ stamp 202505011153
 # Related
 
 - Isten, Urunk, Atyánk - Different names of God in my native Hungarian and how can I use them to differentiate, and also to separate God from patriarchy: [[4a1a3a-how-can-i-separate-the-two-versions-of-god-using-my-native-hungarian]]
+- I work with a mother-daughter pair who perfectly ulitize language to separate their work and personal life. [[4a1a3a1-i-work-with-a-mother-daughter-pair-who-perfectly-utilize-languate-to-separate-their-work-and-personal-life]]
 
 ---
 # Folgezettel links

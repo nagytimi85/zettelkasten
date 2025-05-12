@@ -32,3 +32,4 @@ And I wonder what course it will be.
 
 - [[0-root]]
 - [[6a-john-paul-ii-was-the-third-longest-reigning-pope-not-by-accident-but-by-strategy]]
+- [[6b-my-interest-in-pope-francis-got-me-interested-in-his-succession-too]]

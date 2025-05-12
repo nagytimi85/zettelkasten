@@ -40,9 +40,10 @@ If I’d like to follow [[ref-harari-yuval-noah|Harari]]’s advice on making a 
 	        - ([[5c-people-only-care-for-ruby-franke-s-child-abuse-case-because-she-was-a-famous-family-vlogger|Ruby Franke]] is a horrible example of Mormon family vlogging going wrong)
 - Similar distiction is worth making between sin and fault.
     - Brené Brown points out a significant difference between guilt and shame - I did something wrong vs I am bad.
-
+- I work with a mother-daughter pair who perfectly ulitize language to separate their work and personal life. [[4a1a3a1-i-work-with-a-mother-daughter-pair-who-perfectly-utilize-languate-to-separate-their-work-and-personal-life]]
 
 ---
 # Folgezettel links
 
 - [[4a1a3-to-avoid-mixing-up-two-very-different-versions-of-god-consciously-use-two-different-words-for-them]]
+- [[4a1a3a1-i-work-with-a-mother-daughter-pair-who-perfectly-utilize-languate-to-separate-their-work-and-personal-life]]
