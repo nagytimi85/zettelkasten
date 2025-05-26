@@ -26,6 +26,8 @@ Contrary to this, in the fictive fundamentalist state of Gilead, even the highes
 - Radical fundamentalist tendencies and the longing for the "good old days" sadly is a significant sentiment in today's global and local (Hungarian) politics. 
 - The treatment of Gilead women is comperable for Afghan women's treatment by the Taliban. 
 - It's interesting to compare Atwood's The Handmaid's Tale and Merle's Les hommes protégés. Both stories stem from a similar fertility crisis, but in one, women, in the other, men become the "protected class", and patriarchy shows its ugly face in how different the two stories unfold. 
+	- [[202402021407 Hasonlóságok és különbségek A szolgálólány meséje és a Védett férfiak alapfeltevésében]]
+	- [[202402021422 A patriarchátus szerepe abban, milyen különbségek láthatóak a Védett férfiak és A szolgálólány meséje világában]]
 - It's interesting to compare the caste system of The Handmaid's Tale with the very differently based caste system of Huxley's Brave New World. In one, female fertility is in the center of the issues, in the other, women are totally freed from their reproductive duties. 
 - It's interesting to compare The Handmaid's Tale with [[ref-moskat-anita|Moskát]]'s [[ref-moskat-horgonyhely-2015|Horgonyhely]], where women claimed power based on the powers tied to their reproductive abilities. 
 
@@ -36,3 +38,4 @@ Contrary to this, in the fictive fundamentalist state of Gilead, even the highes
 - [[0-root]]
 - [[3a-equal-voting-rights-in-hungary-is-only-80-years-old-in-hungary]]
 - [[3b-keeping-a-diary-and-writing-letters-lep-to-notice-more-in-the-world]]
+- [[3c-beyonce-didn-t-make-dolly-parton-s-jolene-more-girl-power-in-her-remake-it-s-still-the-other-side-of-the-same-coin]]

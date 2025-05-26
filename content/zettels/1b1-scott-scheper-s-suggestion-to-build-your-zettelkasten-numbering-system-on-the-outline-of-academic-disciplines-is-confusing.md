@@ -31,8 +31,13 @@ So I strongly suggest not to start there, but rather check out [[ref-doto-bob|Bo
 - You start a notes network (a Luhmannian Zettelkasten, or a digital garden) with a niche idea, and you build from there via associations: [[1b-the-first-card-of-a-zettelkasten-is-usually-niche]]
 - How the oppositional nature of Scott Scheper's ANTI-net concept represents Scott's personality and illustrates perfectly why I have a beef with him. 
 	- Similar to Scott's fall from grace in my eyes is how I'm still kinda obsessed with the Mormon Church (LDS Church) after they tried to recruit me while I was grieving my mother
+- Scott has a fixed idea that a Zettelkasten is only a Zettelkasten if you do it on paper, because Luhmann did it on paper (he has harsh words towards any digital user)
+	- What is a Zettelkasten? - It's not a well defined term, although we all have a "feeling" about what it is.
+	- What can you add or take away for it to still be a Zettelkasten.
+	- Sascha's definition of a Zettelkasten ie. lacks any specifics. [[1b1a-i-find-it-interesting-that-sascha-fast-defines-zettelkasten-without-including-any-specific-terms-usually-associated-with-the-definition-of-a-zettelkasten]]
 
 ---
 # Folgezettel links
 
 - [[1b-the-first-card-of-a-zettelkasten-is-usually-niche]]
+- [[1b1a-i-find-it-interesting-that-sascha-fast-defines-zettelkasten-without-including-any-specific-terms-usually-associated-with-the-definition-of-a-zettelkasten]]
