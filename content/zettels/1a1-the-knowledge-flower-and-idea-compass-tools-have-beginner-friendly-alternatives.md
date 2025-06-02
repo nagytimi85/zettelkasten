@@ -40,6 +40,8 @@ For enriching our net of linked notes:
 # Related
 
 - Baby steps can be daunting: [[1a-we-can-get-stuck-in-analysis-paralysis-because-of-the-wide-variety-of-possible-first-baby-steps]]
+- What is the Knowledge Flower tool? [[202402131310 Knowledge flower: egy kreatív eszköz az információ tudássá konvertálására]]
+- What is the Idea Compass tool? [[202402151828 Idea compass: egy eszköz egy tudásmorzsa kontextusba helyezésére]]
 
 ---
 # Folgezettel links

@@ -16,9 +16,11 @@ No pope so far got me that engaged as [[ref-franciscus|Francis]] did, so no wond
 
 - Behind the selection of a pope is always some strategy, some response to the times. [[6-the-cardinals-strategy-regarding-francis-succession-can-set-the-path-for-decades-in-a-world-with-rising-authoritarianism-and-fascism]]
 - The personality and work of a pope can make or break one's ties to the Catholic Church.
+- As I turned my attention back to the Catholic Church and religion, for a while, I became "a bit of a theologian myself". [[6b2-everyone-who-thinks-about-god-is-a-theologian-by-definition]]
 
 ---
 # Folgezettel links
 
 - [[6-the-cardinals-strategy-regarding-francis-succession-can-set-the-path-for-decades-in-a-world-with-rising-authoritarianism-and-fascism]]
 - [[6b1-the-person-of-the-pope-can-make-someone-leave-or-become-more-engaged-in-the-catholic-church]]
+- [[6b2-everyone-who-thinks-about-god-is-a-theologian-by-definition]]
