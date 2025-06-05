@@ -28,4 +28,5 @@ Rhizomes are like that: you can enter at any point and discover the net starting
 ---
 # Folgezettel links
 
-[[1c-calling-it-a-digital-garden-is-a-good-reminder-that-one-can-keep-a-zettelkasten-just-for-the-joy-of-keeping-it]]
+- [[1c-calling-it-a-digital-garden-is-a-good-reminder-that-one-can-keep-a-zettelkasten-just-for-the-joy-of-keeping-it]]
+- [[1c2a-rhizome-theory-s-definition-is-mirrored-in-luhmann-s-description-of-his-notebox]]
