@@ -16,11 +16,11 @@ He writes:
 
 > The means by which Deleuze and Guattari intended to examine both societal and theoretical structures is clear:   
 > 
-– “enter…by any point whatsoever”   
-– “none matters more than another”   
-– “discover what other points (the) entrance connects to”
+	- “enter…by any point whatsoever”   
+	- “none matters more than another”   
+	- “discover what other points (the) entrance connects to”
 >
->This anarchic reading of social and theoretical encounters, (...) is almost identical to Niklas Luhmann’s descriptions of the zettelkasten."
+>This anarchic reading of social and theoretical encounters, (...) is almost identical to Niklas Luhmann’s descriptions of the zettelkasten." (p112-113)
 
 ---
 # Related

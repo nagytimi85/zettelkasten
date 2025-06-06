@@ -7,7 +7,7 @@ stamp 202505212104
 
 ---
 
-[[ref-fast-sascha|Sascha Fast]] defines Zettelkasten in [[ref-fast-regaining-depth-with-the-zettelkasten-method-2025|one of his videos]] this way: "it’s a thinking environment that makes your past thinking efforts available". 
+[[ref-fast-sascha|Sascha Fast]] defines [[hub-zettelkasten|Zettelkasten]] in [[ref-fast-regaining-depth-with-the-zettelkasten-method-2025|one of his videos]] this way: "it’s a thinking environment that makes your past thinking efforts available". 
 
 Interestingly enough, this definition lacks any specific terms like atomicity, bottom-up approach, interconnectedness, etc. 
 

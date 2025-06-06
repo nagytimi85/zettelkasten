@@ -9,7 +9,7 @@ tags:
 stamp 202503311941
 
 ---
-Digital garden is a fitting alternative name for my Zettelkasten. 
+Digital garden is a fitting alternative name for my [[hub-zettelkasten|Zettelkasten]]. 
 
 I deal with maximalism (stemming from my mother) and it's important to remind myself, that having a garden isn't only justified if it feeds your family or you can sell produce from it on the farmers' market. Being a garden just to have a garden is fine. A garden can be beautiful in itself, and if you enjoy gardening, its existence is already justified.
 

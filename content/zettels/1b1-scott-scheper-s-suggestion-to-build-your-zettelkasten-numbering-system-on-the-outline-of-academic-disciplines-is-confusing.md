@@ -13,7 +13,7 @@ stamp 202503291048
 
 ---
 
-[[ref-scheper-scott|Scott Scheper]], who markets himself as a Zettelkasten guru, suggests to build the UID numbering system of your notes collection based on the [Outline of Academic Disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines). 
+[[ref-scheper-scott|Scott Scheper]], who markets himself as a [[hub-zettelkasten|Zettelkasten]] guru, suggests to build the UID numbering system of your notes collection based on the [Outline of Academic Disciplines](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines). 
 
 This idea of using pre-set categories, is contrary to Zettelkasten principles, and it
 - a) destroys the concept if applied consistently later on, or

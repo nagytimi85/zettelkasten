@@ -9,7 +9,7 @@ stamp 202505111552
 
 ---
 
-One commentator on America - The Jesuit Review recalled while waiting for [[6-the-cardinals-strategy-regarding-francis-succession-can-set-the-path-for-decades-in-a-world-with-rising-authoritarianism-and-fascism|the election of the new pope (after Francis' passing)]] that the election of Francis was also a referendum on his religious life. In his twenties he was considering leaving the church but [[ref-franciscus|Francis]] gave him hope in the institution. This 2025 papal election, he said, can be a similar experience for many.
+One commentator on America - The Jesuit Review recalled while waiting for [[6-the-cardinals-strategy-regarding-francis-succession-can-set-the-path-for-decades-in-a-world-with-rising-authoritarianism-and-fascism|the election of the new pope (after Francis' passing)]] that the election of [[ref-franciscus|Francis]] was also a referendum on his religious life. In his twenties he was considering leaving the church but Francis gave him hope in the institution. This 2025 papal election, he said, can be a similar experience for many.
 
 ---
 # Related

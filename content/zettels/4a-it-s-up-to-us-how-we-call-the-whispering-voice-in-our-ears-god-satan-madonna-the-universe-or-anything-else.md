@@ -11,7 +11,7 @@ stamp 202504012026
 ---
 
 
-One of my favorite scenes from the 2016 series The Young Pope is when the young pope teaches one of her closest follower, Esther to pray. 
+One of my favorit scenes from the 2016 series The Young Pope is when the young pope teaches one of her closest follower, Esther to pray. 
 
 > "It should be an occasion for understanding. While we pray, we reflect... in the most elevated way we can, so that someone can whisper thoughts into our ears."
 

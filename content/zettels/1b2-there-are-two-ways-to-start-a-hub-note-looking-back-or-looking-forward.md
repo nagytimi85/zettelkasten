@@ -32,4 +32,5 @@ There are two ways to start a hub note (or moc - map of content -, or structure 
 ---
 # Folgezettel links
 
-[[1b-the-first-card-of-a-zettelkasten-is-usually-niche]]
+- [[1b-the-first-card-of-a-zettelkasten-is-usually-niche]]
+- [[1b2a-if-you-collect-notes-without-a-writing-goal-it-can-reveal-your-true-interest]]

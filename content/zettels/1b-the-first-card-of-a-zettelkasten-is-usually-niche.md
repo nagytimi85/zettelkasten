@@ -10,10 +10,7 @@ stamp 202503282014
 
 ---
 
-> "More often than not, your first note on a subject will not contain a top-level concept or some sort of umbrella statement. It will be an idea that is niche and specific." - says Bob Doto in his article about Folgezettel.
-
-- [[ref-doto-bob]]
-- [[ref-doto-how-to-use-folgezettel-in-your-zettelkasten-2023]]
+> "More often than not, your first note on a subject will not contain a top-level concept or some sort of umbrella statement. It will be an idea that is niche and specific." - says [[ref-doto-bob|Bob Doto]] in his article, [[ref-doto-how-to-use-folgezettel-in-your-zettelkasten-2023|How to Use Folgezettel in Your Zettelkasten]].
 
 A [[ref-luhmann-niklas|Luhmannian]] [[hub-zettelkasten|Zettelkasten]] is a network of ideas that's built from bottom up. It makes sense, that the first thing you put in it is not the description of some predetermined order (like pre-set category list) or a top-level idea that needs to be detailed "in later chapters". 
 
