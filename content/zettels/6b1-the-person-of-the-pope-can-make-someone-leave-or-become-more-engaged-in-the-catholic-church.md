@@ -27,3 +27,4 @@ One commentator on America - The Jesuit Review recalled while waiting for [[6-th
 # Folgezettel links
 
 - [[6b-my-interest-in-pope-francis-got-me-interested-in-his-succession-too]]
+- [[6b1a-how-my-religion-teacher-hooked-me-up-with-the-esperanto-movement-is-a-great-example-of-how-the-church-caught-a-ball-that-the-state-dropped]]
