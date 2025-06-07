@@ -1,5 +1,5 @@
 ---
-title: Everyone who thinks about God is a theologian by definition
+title: 6b2 Everyone who thinks about God is a theologian by definition
 draft: false
 tags:
   - theology
