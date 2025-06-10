@@ -48,9 +48,11 @@ From s01e04:
 - The elevated reflection with the aim of understanding can happen during journaling for secular people: [[3b-keeping-a-diary-and-writing-letters-lep-to-notice-more-in-the-world]]
 - For an easy way to pray, see Pope Francis' Five Finger Prayer. (A technique recommended for children.) I wrote about it on my KF blog (in Hungarian): https://kincsesfuzet.wordpress.com/tag/otujjas-ima/
 - Gretchen Rubin in The Happiness Project had a nice quote about how a study called prayer a solitary activity, yet, the meaning of prayer for many is that they are not talking to themselves. 
+- The Third man syndrome or Third man factor is a documented and studied phenomena, which for sure can be placed into a religious framework and given a name of a spirit, an angel, Jesus or other entity. [[4a2-colby-j-ryan-experienced-the-third-man-syndrome-when-he-got-the-tragic-news-about-his-siblings]]
 
 ---
 # Folgezettel links
 
 - [[4-an-observant-girl-reported-for-witchcraft-perfectly-illustrates-what-i-think-witchcraft-is]]
 - [[4a1-harari-calls-it-a-magic-trick-how-believers-swap-versions-of-god-so-god-can-serve-their-agenda]]
+- [[4a2-colby-j-ryan-experienced-the-third-man-syndrome-when-he-got-the-tragic-news-about-his-siblings]]
