@@ -20,7 +20,7 @@ Beyoncé's remake of Dolly Parton's Jolene is just the other side of the coin. S
 	- [[202401270945 A matriarchátus megteremtésének eszközei Robert Merle: Védett férfiak c. regényében]]
 - See my takes on matriarchy: 
 	- [[202401270811 hub Matriarchátus]]
-	- [[202401270833 Eszközök a matriarchátus megteremtésére fiktív történetekben]]
+	- [[hub-different-ways-to-create-matriarchy-in-a-fiction]]
 
 ---
 # Folgezettel links

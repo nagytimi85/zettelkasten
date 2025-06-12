@@ -14,7 +14,8 @@ He chose his name at least partially inspired by the last Leo, [[ref-leo-xiii|Po
 ---
 # Related
 
-
+- [[ref-leo-xiii]]
+- [[ref-franciscus]]
 
 ---
 # Folgezettel links

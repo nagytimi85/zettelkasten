@@ -1,9 +1,9 @@
 ---
-title: Leo XIII
+title: Example Title
 draft: false
 tags:
 ---
-stamp 202505111612
+stamp 202506121911
 
 ---
 
@@ -11,7 +11,7 @@ stamp 202505111612
 ---
 # Related
 
-- [[ref-leo-xiv]]
+
 
 ---
 # Folgezettel links
