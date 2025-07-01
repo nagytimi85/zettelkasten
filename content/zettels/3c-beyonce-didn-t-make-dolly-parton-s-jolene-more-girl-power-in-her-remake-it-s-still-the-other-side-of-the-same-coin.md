@@ -17,7 +17,7 @@ Beyoncé's remake of Dolly Parton's Jolene is just the other side of the coin. S
 - See my comparing analysis of Les Hommes Protégés and The Handmaid's Tale. 
 	- [[202402021422 A patriarchátus szerepe abban, milyen különbségek láthatóak a Védett férfiak és A szolgálólány meséje világában]]
 	- [[202402021407 Hasonlóságok és különbségek A szolgálólány meséje és a Védett férfiak alapfeltevésében]]
-	- [[202401270945 A matriarchátus megteremtésének eszközei Robert Merle: Védett férfiak c. regényében]]
+	- [[3d1a-robert-merle-in-les-hommes-protégés-uses-an-extreme-advantage-of-women-in-numbers-after-a-pandemic-as-a-plot-tool-to-create-a-fictional-matriarchy]]
 - See my takes on matriarchy: 
 	- [[202401270811 hub Matriarchátus]]
 	- [[hub-different-ways-to-create-matriarchy-in-a-fiction]]

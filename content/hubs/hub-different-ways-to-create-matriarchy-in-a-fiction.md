@@ -19,7 +19,7 @@ Since for human societies, patriarchy seems to be the default (see: [[5.1b2a1a1a
 Some examples of matriarchies in fiction and the plot tools that made them possible:
 - in Horgonyhely by Anita Moskát: [[3d-anita-moskát-in-horgonyhely-uses-maginc-and-pregnancy-privilege-as-a-plot-tool-to-create-a-fictional-matriarchy]]
 - in The power by Naomi Alderman: [[3d1-naomi-alderman-in-the-power-uses-genetical-mutation-as-a-plot-tool-to-create-a-fictional-matriarchy]]
-- Védett férfiak (Les hommes protégés) by Robert Merle: ... [[202401270945 A matriarchátus megteremtésének eszközei Robert Merle: Védett férfiak c. regényében]]
+- Védett férfiak (Les hommes protégés) by Robert Merle: ... [[3d1a-robert-merle-in-les-hommes-protégés-uses-an-extreme-advantage-of-women-in-numbers-after-a-pandemic-as-a-plot-tool-to-create-a-fictional-matriarchy]]
 
 In Horgonyhely, the matriarchal situation is ongoing since history remembers. In The power and Les hommes protégés, the story follows the birth of matriarchal societies due to sudden changes in circumstances. 
 

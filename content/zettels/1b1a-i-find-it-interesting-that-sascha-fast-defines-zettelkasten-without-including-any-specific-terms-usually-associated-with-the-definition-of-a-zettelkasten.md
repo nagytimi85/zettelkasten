@@ -17,9 +17,13 @@ Interestingly enough, this definition lacks any specific terms like atomicity, b
 - What is a Zettelkasten? - It's not a well defined term, although we all have a "feeling" about what it is.
 	- What can you add or take away for it to still be a Zettelkasten.
 - Scott Scheper is very orthodox and very exclusionary about the definition of a Zettelkasten. 
+	- Ironically, the T in ANTI-net is "tree-structured" which a Zettelkasten is definitely not. This is one of the reasons Scott's ID system made it hard for me to get comfortable in my Zettelkasten.
+		- [[1c2a-rhizome-theory-s-definition-is-mirrored-in-luhmann-s-description-of-his-notebox]]
+		- [[1b1-scott-scheper-s-suggestion-to-build-your-zettelkasten-numbering-system-on-the-outline-of-academic-disciplines-is-confusing]]
 - The Zettelkasten reddit defines Zettelkasten this way (as of May of 2025): "Niklas Luhmann's zettelkasten method, a bottom-up, emergent, rhizomatic approach to writing and thinking."
 
 ---
 # Folgezettel links
 
 - [[1b1-scott-scheper-s-suggestion-to-build-your-zettelkasten-numbering-system-on-the-outline-of-academic-disciplines-is-confusing]]
+- [[1b1a1-the-zettelkasten-reddit-defines-the-zettelkasten-method-with-its-logic-and-without-any-technicalities]]

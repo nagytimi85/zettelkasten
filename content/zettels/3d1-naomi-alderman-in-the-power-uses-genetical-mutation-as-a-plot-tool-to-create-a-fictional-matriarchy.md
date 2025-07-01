@@ -25,3 +25,4 @@ In this story, a genetical mutation appears in a generation of women:
 # Folgezettel links
 
 - [[3d-anita-moskát-in-horgonyhely-uses-maginc-and-pregnancy-privilege-as-a-plot-tool-to-create-a-fictional-matriarchy]]
+- [[3d1a-robert-merle-in-les-hommes-protégés-uses-an-extreme-advantage-of-women-in-numbers-after-a-pandemic-as-a-plot-tool-to-create-a-fictional-matriarchy]]

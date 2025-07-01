@@ -8,7 +8,9 @@ stamp 202504081847
 ---
 Harari, Yuval Noah. Sapiens: Az emberiség rövid története. Translated by Péter Torma. Budapest: Animus, 2018. 
 
-Harari, Yuval Noah. Sapiens: A Brief History of Humankind. London: Vintage, 2015.
+Harari, Yuval Noah. Sapiens: A Brief History of Humankind. Signal, 2014. 
+
+
 
 ---
 # Related
