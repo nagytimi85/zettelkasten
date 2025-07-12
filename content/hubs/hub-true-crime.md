@@ -20,6 +20,13 @@ This is not an all-encompassing collection, but a loose collection of possible s
 
 - Emily D. Baker said that the Ruby Franke - Jody Hildebrandt child abuse case sadly is not so horrifying on the scale of child abuse cases, people only care and listen, because Ruby was a famous family vlogger. [[5c-people-only-care-for-ruby-franke-s-child-abuse-case-because-she-was-a-famous-family-vlogger]]
 
+
+# The South Carolina vs Richard Alexander Murdaugh case
+
+- There's poetry in the way how the brotherhood surrounding the Murdaugh frauds, letting them go on for so long, was torn down by a group of women. [[3e1-there-s-poetry-in-the-way-how-the-brotherhood-surrounding-the-murdaugh-frauds-and-murders-was-torn-down-by-a-group-of-women]]
+- Also a poetic aspect of the Murdaugh murders, as Dr John Matthias points out, how the Murdaugh dynasty's rise started with a train accident and its fall began with a boat accident.
+
+
 ---
 # Related
 

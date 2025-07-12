@@ -1,5 +1,5 @@
 ---
-title: "Merle, Robert: Les hommes protégés"
+title: "Merle, Robert: Les hommes protégés (Védett férfiak)"
 draft: false
 tags:
 ---

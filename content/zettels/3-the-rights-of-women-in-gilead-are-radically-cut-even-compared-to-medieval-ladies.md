@@ -40,3 +40,4 @@ Contrary to this, in the fictive fundamentalist state of Gilead, even the highes
 - [[3b-keeping-a-diary-and-writing-letters-lep-to-notice-more-in-the-world]]
 - [[3c-beyonce-didn-t-make-dolly-parton-s-jolene-more-girl-power-in-her-remake-it-s-still-the-other-side-of-the-same-coin]]
 - [[3d-anita-moskát-in-horgonyhely-uses-maginc-and-pregnancy-privilege-as-a-plot-tool-to-create-a-fictional-matriarchy]]
+- [[3e-the-work-of-women-is-the-invisible-grout-that-keeps-successful-men-s-schedules-together]]
