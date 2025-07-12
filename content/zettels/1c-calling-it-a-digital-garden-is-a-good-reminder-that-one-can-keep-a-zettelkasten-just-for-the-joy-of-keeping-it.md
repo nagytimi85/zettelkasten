@@ -19,12 +19,13 @@ This is the mindset I aim to have with my Zettelkasten.
 # Related
 
 - About the decision of starting my public Zettelkasten: [[1-writing-and-publishing-my-zettelkasten-in-english-can-be-a-good-way-to-practice-the-feynman-technique]]
-- Luhmann called his a septic tank. My mother-in-law called a corner of her garden a "duzzasztó". This is a good analogy for further discussion.
-- I envy [[ref-doto-bob|Bob Doto]]'s ease in just starting things without the pressure to finish all of them. 
+- Luhmann called his a septic tank. My mother-in-law called a corner of her garden a "duzzasztó". This is a good analogy for further discussion. 
+	- I envy [[ref-doto-bob|Bob Doto]]'s ease in just starting things without the pressure to finish all of them. He says, just like plants in a duzzasztó nursery, he lets his many writing projects fight for his interest and either thrive or wither away. [[1c4-i-ache-and-aim-for-bob-doto-s-mindset-of-starting-a-lot-of-books-and-letting-them-naturally-fight-for-his-interest]]
 - My therapist encouraged me to dig deeper into my maximalism, where it is coming from and what is my subconscious getting from it.
-	- Further related is parts language and internal family systems. 
+	- Further related is parts language and internal family systems (IFS). 
 - [[ref-gilbert-elizabeth|Elizabeth Gilbert]]'s [[ref-gilbert-distinguising-between-hobbies-jobs-carreers-and-vocation-2017|Job, Hobby, Career, Vocation Youtube video]] giving the advice not to burden your hobby with the expectation of it needing to sustain you. You are an adult, you need to have a job and sustain yourself _and_ your hobby, not the other way around. 
 - A relationship graph is a rhizome just like a Zettelkasten. [[1c2-a-relationship-graph-is-a-rhizome]]
+- Labeling can be a therapeutic thing. 
 
 ---
 # Folgezettel links
@@ -33,3 +34,4 @@ This is the mindset I aim to have with my Zettelkasten.
 - [[1c1-nick-milo-calls-his-interlinked-notes-collection-his-ideaverse]]
 - [[1c2-a-relationship-graph-is-a-rhizome]]
 - [[1c3-publishing-my-zettels-is-a-way-of-practicing-kindness-towards-myself]]
+- [[1c4-i-ache-and-aim-for-bob-doto-s-mindset-of-starting-a-lot-of-books-and-letting-them-naturally-fight-for-his-interest]]

@@ -27,6 +27,7 @@ It doesn't tie Zettelkasten to a certain medium, and doesn't get into the nitty-
 		- Not being a tree is why Luhmann didn't use a library catalog style numbering system. 
 		- Obsidian graph is an often attacked tool in the Obsidian community, but it's a straight forward representation of how a knowledge network is pretty much not a tree. :)
 	- Indexing is a tool again. 
+- Scott's capitalistic gatekeeping around Zettelkasten just pains me. [[1b1a1a-the-gatekeeping-around-zettelkasten-pains-me]]
 - In contrast, Sascha Fast uses a way broader definition as of 2025. [[1b1a-i-find-it-interesting-that-sascha-fast-defines-zettelkasten-without-including-any-specific-terms-usually-associated-with-the-definition-of-a-zettelkasten]]
 - I enjoyed Umberto Eco's book on writing a thesis and the notecard system representation in it. [[ref-eco-how-to-write-a-thesis]]
 
@@ -34,3 +35,4 @@ It doesn't tie Zettelkasten to a certain medium, and doesn't get into the nitty-
 # Folgezettel links
 
 - [[1b1a-i-find-it-interesting-that-sascha-fast-defines-zettelkasten-without-including-any-specific-terms-usually-associated-with-the-definition-of-a-zettelkasten]]
+- [[1b1a1a-the-gatekeeping-around-zettelkasten-pains-me]]

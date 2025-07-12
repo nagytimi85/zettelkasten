@@ -21,6 +21,7 @@ Giving my notes the validity of being published is a way to bend my tendency to 
 - I often think about "what I leave behind", and if I imagine my goddaughter sifting through my notes sometime around the end of the century, I think they can provide some insight for her - hence, they are worth sharing.
 - Private journals and letters are highly valued raw material for any researcher (not just historians or sociologists, but can be for researchers of natural sciences - as a guest explained on the Ologies Podcast with Alie Ward). 
 - Publishing my notes is a way of practicing the Feynman technique and learning by teaching (learning by sharing): [[1-writing-and-publishing-my-zettelkasten-in-english-can-be-a-good-way-to-practice-the-feynman-technique]]
+- Publishing my notes can be seen as an acknowledgement of my ADHD brain. Luhmann's description of wild an unexpected connections in his "second mind" (his notebox) reminded me of how my brain works, with wild associations. Giving this legitimacy by sharing is giving legitimacy my wild, silly, unexpected self. 
 
 ---
 # Folgezettel links
