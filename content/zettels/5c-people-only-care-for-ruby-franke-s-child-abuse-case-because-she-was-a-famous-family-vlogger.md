@@ -15,7 +15,7 @@ stamp 202504111815
 ---
 # Related
 
-- This observation reminded me of [[ref-noah-trevor|Trevor Noah]]'s eery remarks on "the jews only counted because the nazis counted them", as opposed to horrible mass murders in Africa left undocumented and hence unknown.
+- This observation reminded me of [[ref-noah-trevor|Trevor Noah]]'s eery remarks on "the jews only counted because the nazis counted them", as opposed to horrible mass murders in Africa left undocumented and hence unknown. [[5c1-trevor-noah-says-the-victims-of-the-holocaust-only-counted-because-the-nazis-counted-them]]
 - What we don’t pay attention to, lingers below the surface. This is the point of shadow work.
 - For more true crime stuff, see: [[hub-true-crime]]
 - Pros and cons of vlogging, family vlogging, streaming and sharing life. 

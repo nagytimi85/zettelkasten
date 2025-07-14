@@ -25,7 +25,7 @@ This is the mindset I aim to have with my Zettelkasten.
 	- Further related is parts language and internal family systems (IFS). 
 - [[ref-gilbert-elizabeth|Elizabeth Gilbert]]'s [[ref-gilbert-distinguising-between-hobbies-jobs-carreers-and-vocation-2017|Job, Hobby, Career, Vocation Youtube video]] giving the advice not to burden your hobby with the expectation of it needing to sustain you. You are an adult, you need to have a job and sustain yourself _and_ your hobby, not the other way around. 
 - A relationship graph is a rhizome just like a Zettelkasten. [[1c2-a-relationship-graph-is-a-rhizome]]
-- Labeling can be a therapeutic thing. 
+- Labeling can be a therapeutic thing. Just as much labeling can divide, it can connect. [[5b1a1-labels-can-help-both-to-connect-and-to-disconnect]]
 
 ---
 # Folgezettel links
