@@ -2,6 +2,9 @@
 title: 5b1a1a GRSM can be a more inclusive alternative label in place of LMBTQ
 draft: false
 tags:
+  - grsm
+  - lmbtq
+  - labels
 ---
 stamp 202507141628
 

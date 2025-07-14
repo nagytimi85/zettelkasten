@@ -25,6 +25,7 @@ Rather, the first thing you put in it is just a random idea that's right in fron
 - A Zettelkasten is a rhizome [[1c2a-rhizome-theory-s-definition-is-mirrored-in-luhmann-s-description-of-his-notebox]]
 	- (just like a relationship graph). [[1c2-a-relationship-graph-is-a-rhizome]]
 - You can use hubs to access your notes in an organised way. You can start writing hub notes looking backward of looking forward. [[1b2-there-are-two-ways-to-start-a-hub-note-looking-back-or-looking-forward]]
+- Folgezettel simply means follow-up note. 
 
 
 ---

@@ -13,9 +13,9 @@ stamp 202503281657
 
 This page is the hub of all hubs, the map of content of all maps of content, the structure note for all structure notes.
 
+- [[hub-different-ways-to-create-matriarchy-in-a-fiction]]
 - [[hub-true-crime]]
 - [[hub-zettelkasten]]
-
 
 ---
 

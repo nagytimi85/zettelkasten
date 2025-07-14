@@ -2,6 +2,7 @@
 title: 1b1b ID-ing your notes by timestamp is like keeping them in a notebook
 draft: false
 tags:
+  - commonplacebooks
 ---
 stamp 202507111949
 
@@ -18,7 +19,7 @@ So just like that, you can put your atomic or atomish notes into a series of not
 
 - The way John Locke indexes his commonplace books: [https://publicdomainreview.org/collection/john-lockes-method-for-common-place-books-1685/](https://publicdomainreview.org/collection/john-lockes-method-for-common-place-books-1685/)
 - Paper versus digital is in part a false contradiction. Scott Scheper ie. uses it for gatekeeping. [[1b1a1a-the-gatekeeping-around-zettelkasten-pains-me]]
-- The folgezettel numbering system is optional for digital, but it somewhat helps notes to cluster by connection. 
+- The folgezettel numbering system is optional for digital, but it somewhat helps notes to cluster by connection. Without it, notes in a list would be sorted by date of creation or by title. 
 
 ---
 # Folgezettel links
