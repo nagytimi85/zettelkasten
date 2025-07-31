@@ -23,3 +23,4 @@ So although there are formally trained theologians, professional theologians, ar
 # Folgezettel links
 
 - [[6b-my-interest-in-pope-francis-got-me-interested-in-his-succession-too]]
+- [[6b2a-since-being-christian-means-being-a-follower-of-christ-the-sermon-on-the-mount-is-a-good-place-to-start]]
