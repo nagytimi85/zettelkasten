@@ -36,7 +36,7 @@ So I strongly suggest not to start there, but rather check out [[ref-doto-bob|Bo
 	- What can you add or take away for it to still be a Zettelkasten.
 	- Sascha's definition of a Zettelkasten ie. lacks any specifics. [[1b1a-i-find-it-interesting-that-sascha-fast-defines-zettelkasten-without-including-any-specific-terms-usually-associated-with-the-definition-of-a-zettelkasten]]
 	- Scott's gatekeeping simply just pains me. It's rude, malicious and highly capitalistic. [[1b1a1a-the-gatekeeping-around-zettelkasten-pains-me]]
-- Recommendations on how to number your notes (if at all) varies. [[202505191115 moc Different ways of numbering Zettelkasten notes]]
+- Recommendations on how to number your notes (if at all) varies. [[moc-different-ways-of-numbering-zettelkasten-notes]]
 
 ---
 # Folgezettel links

@@ -17,6 +17,7 @@ stamp 202504041836
 - A digital garden: [[1c-calling-it-a-digital-garden-is-a-good-reminder-that-one-can-keep-a-zettelkasten-just-for-the-joy-of-keeping-it]]
 - An ideaverse: [[1c1-nick-milo-calls-his-interlinked-notes-collection-his-ideaverse]]
 - A Zettelkasten is a rhizome (just like a relationship graph). [[1c2-a-relationship-graph-is-a-rhizome]]
+- My thinking about what distinguishes a Zettelkasten: [[moc-what-are-the-distinctive-features-of-a-zettelkasten-compared-to-a-notecard-collection]]
 
 
 ## How to start a Zettelkasten:
@@ -28,6 +29,7 @@ stamp 202504041836
 ## How to organise a Zettelkasten:
 
 - You can use hubs to access your notes in an organised way. You can start writing hub notes looking backward of looking forward. [[1b2-there-are-two-ways-to-start-a-hub-note-looking-back-or-looking-forward]]
+- There are different ways you can number your notes in a Zettelkasten. [[moc-different-ways-of-numbering-zettelkasten-notes]]
 
 
 
