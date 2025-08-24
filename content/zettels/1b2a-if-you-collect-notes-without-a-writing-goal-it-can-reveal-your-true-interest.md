@@ -27,3 +27,4 @@ He writes:
 # Folgezettel links
 
 - [[1b2-there-are-two-ways-to-start-a-hub-note-looking-back-or-looking-forward]]
+- [[1b2a1-umberto-eco-said-to-keep-your-moly-or-goodreads-profile-up-to-dat]]
