@@ -27,6 +27,7 @@ We use the German word, because we trace the practice back to [[ref-luhmann-nikl
 - Luhmann's first career was in legal administration, and his interest in sociology blossomed as a passion project. 
 - Luhmann's first notebox contained reading notes from his various interests. 
 	- See [[ref-eco-umberto|Umberto Eco]]'s advice on keeping reading logs even if we don't know yet what we will use our reading notes for. [[ref-eco-how-to-write-a-thesis]]
+		- [[1b2a1-umberto-eco-said-to-keep-your-moly-or-goodreads-profile-up-to-date]]
 	- (Source / details needed, from JFK Smith's paper. [[ref-schmidt-niklas-luhmann-s-card-index-2018]])
 
 ## What did Luhmann do differently?

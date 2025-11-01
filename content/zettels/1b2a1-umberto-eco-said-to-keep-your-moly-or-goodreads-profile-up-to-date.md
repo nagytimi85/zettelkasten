@@ -18,7 +18,8 @@ This is what the "én és a könyv" (me and the book) page on "the Hungarian Goo
 ---
 # Related
 
-
+- I read this book because [[ref-aldrich-chris|Chris Aldrich]] kept recommending it on the Zettelkasten subreddit. 
+	- I don't agree with Chris tho to call every notes collection a Zettelkasten. [[ref-aldrich-the-two-definitions-of-zettelkasten]]
 
 ---
 # Folgezettel links

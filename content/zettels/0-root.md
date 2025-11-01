@@ -19,6 +19,7 @@ This is the root note for my public Zettelkasten, from where you can start brows
 - [[4-an-observant-girl-reported-for-witchcraft-perfectly-illustrates-what-i-think-witchcraft-is]]
 - [[5-a-star-wars-reference-popped-up-in-the-closing-arguments-of-the-florida-vs-sarah-boone-murder-trial]]
 - [[6-the-cardinals-strategy-regarding-francis-succession-can-set-the-path-for-decades-in-a-world-with-rising-authoritarianism-and-fascism]]
+- [[7-everyone-has-the-same-24-hours-but-everyone-has-different-capacity]]
 
 ---
 

@@ -18,13 +18,19 @@ This is not an all-encompassing collection, but a loose collection of possible s
 
 # The Utah vs Franke-Hildebrandt case
 
-- Emily D. Baker said that the Ruby Franke - Jody Hildebrandt child abuse case sadly is not so horrifying on the scale of child abuse cases, people only care and listen, because Ruby was a famous family vlogger. [[5c-people-only-care-for-ruby-franke-s-child-abuse-case-because-she-was-a-famous-family-vlogger]]
+- [[ref-baker-emily-d|Emily D. Baker]] said that the Ruby Franke - Jody Hildebrandt child abuse case sadly is not so horrifying on the scale of child abuse cases, people only care and listen, because Ruby was a famous family vlogger. [[5c-people-only-care-for-ruby-franke-s-child-abuse-case-because-she-was-a-famous-family-vlogger]]
 
 
 # The South Carolina vs Richard Alexander Murdaugh case
 
 - There's poetry in the way how the brotherhood surrounding the Murdaugh frauds, letting them go on for so long, was torn down by a group of women. [[3e1-there-s-poetry-in-the-way-how-the-brotherhood-surrounding-the-murdaugh-frauds-and-murders-was-torn-down-by-a-group-of-women]]
-- Also a poetic aspect of the Murdaugh murders, as Dr John Matthias points out, how the Murdaugh dynasty's rise started with a train accident and its fall began with a boat accident.
+- Also a poetic aspect of the Murdaugh murders, as [[ref-matthias-dr-john|Dr John Matthias]] points out, how the Murdaugh dynasty's rise started with a train accident and its fall began with a boat accident.
+
+# The Idaho vs Bryan Kohberber quadruple murder case
+
+- The quadruple University of Idaho murders occurred in Moscow, Idaho on November 13, 2022.
+- In July 2025, the main suspect Bryan Kohberger pled guilty one month before the start of his trial. This way he avoided a possible death sentence and got a plea deal for a life sentence. 
+- His autistic special interest was crime. [[5d-the-sweetest-autistic-special-interest-brought-to-mind-the-least-sweet-one-with-bryan-kohberger]]
 
 
 ---

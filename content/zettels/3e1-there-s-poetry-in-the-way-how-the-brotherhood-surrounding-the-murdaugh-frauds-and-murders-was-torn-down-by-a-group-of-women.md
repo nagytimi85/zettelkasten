@@ -19,6 +19,7 @@ See: [https://www.youtube.com/live/53YgV9Vj_Ro?si=CsdQizz0qgAq05-C](https://www.
 	- For my knowledge of the Murdaugh case, see [[202501132012 raw Az összefoglalóm arról, amit én tudok a Murdaugh ügyről Dr John és Lauren Youtube-járól]]
 	- For the folklore of "as above, so below, as in, so out", see [[202501311937 raw Amint fent, úgy lent, amint bent, úgy kint]]
 - For my True Crime Hub, see [[hub-true-crime]]
+- Another poetic parallel, this time from nature: [[2b-reindeer-cyclons-and-ant-death-spirals-have-a-fascinating-similarity-while-having-very-different-meaning]]
 
 ---
 # Folgezettel links

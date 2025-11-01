@@ -24,10 +24,11 @@ This is a great example of the survival of the fittest, illustrating that "fit" 
 - The original discussion on reddit: [https://www.reddit.com/r/Dachshund/s/LPGpNDwHi6](https://www.reddit.com/r/Dachshund/s/LPGpNDwHi6)
 - Survival of the fittest in an office environment often means that the seemingly most useless coworkers survive, because they still possess non-work-related attributes that make them fit best into their environment.
 - My husband said once: "mi vagyunk a darwini kiválaszódás ökle" - "we are the fist of the Darwinian evolution", when talking about odd dog species. 
-- The story of Valerie the Australian Dachshund who spent 500+ days in the wild and got captured and handed back to her owners with "a clean bill of health" is a cool survival story tho of a survival of a physically fit sausage dog. 
+- The story of Valerie the Australian Dachshund who spent 500+ days in the wild and got captured and handed back to her owners with "a clean bill of health" is a cool survival story tho of a survival of a physically fit sausage dog. [[202508272052 raw fb Valerie news]]
 
 ---
 # Folgezettel links
 
 - [[0-root]]
 - [[2a-dachshunds-are-feisty-den-hunters-who-hate-micromanagement]]
+- [[2b-reindeer-cyclons-and-ant-death-spirals-have-a-fascinating-similarity-while-having-very-different-meaning]]

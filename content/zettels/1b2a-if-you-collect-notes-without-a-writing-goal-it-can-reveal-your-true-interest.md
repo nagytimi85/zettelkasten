@@ -22,9 +22,11 @@ He writes:
 - Writing with a goal is often emphasized in PKM / Zettelkasten communities. I feel that being in contrary to what Bob suggests. 
 - As a person with ADHD, my "true interest" can lead to wild, wild places. 
 	- My ADHD fever-dream-ish idea-, research- and association chains were a huge part why the Zettelkasten concept spoke to me. 
+- [[ref-luhmann-niklas|Niklas Luhmann]]’s 2nd Zettelkasten was dedicated to his grand theory of society. But his 1st Zettelkasten was his mixed notes from his hobby readings during his years as a law-trained public servant. His 1st Zettelkasten helped him dig out his interest in sociology.
+
 
 ---
 # Folgezettel links
 
 - [[1b2-there-are-two-ways-to-start-a-hub-note-looking-back-or-looking-forward]]
-- [[1b2a1-umberto-eco-said-to-keep-your-moly-or-goodreads-profile-up-to-dat]]
+- [[1b2a1-umberto-eco-said-to-keep-your-moly-or-goodreads-profile-up-to-date]]

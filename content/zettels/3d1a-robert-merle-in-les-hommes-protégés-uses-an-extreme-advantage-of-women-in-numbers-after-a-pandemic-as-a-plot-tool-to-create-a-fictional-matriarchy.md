@@ -8,7 +8,7 @@ stamp 202401270945
 
 ---
 
-[[ref-merle-les-hommes-protégés-1974|Les hommes protégés]] (The Virility Factor, Védett férfiak) by [[ref-merle-robert|Robert Merle]] shows an example of how to create matriarchy in fiction. 
+[[ref-merle-les-hommes-proteges-1974|Les hommes protégés]] (The Virility Factor, Védett férfiak) by [[ref-merle-robert|Robert Merle]] shows an example of how to create matriarchy in fiction. 
 
 In this story, there is a pandemic:
 - a virus specifically attacks men with reproductive capacities, killing them in very high numbers
