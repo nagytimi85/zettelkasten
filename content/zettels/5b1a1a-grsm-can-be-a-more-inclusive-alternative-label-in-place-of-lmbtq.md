@@ -32,3 +32,4 @@ GRSM is a broader, more inclusive, yet shorter, simpler and "finished" term.
 # Folgezettel links
 
 - [[5b1a1-labels-can-help-both-to-connect-and-to-disconnect]]
+- [[5b1a1a1-dr-kirk-honda-says-that-we-see-love-when-someone-gravitates-towards-us-with-their-vulnerabilities]]

@@ -1,5 +1,5 @@
 ---
-title: Political reality of change in 2024-26 Hungary looks very different than the idea that ignited it
+title: 3f Political reality of change in 2024-26 Hungary looks very different than the idea that ignited it
 draft: false
 tags:
   - tisza
