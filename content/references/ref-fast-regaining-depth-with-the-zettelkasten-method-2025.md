@@ -13,6 +13,3 @@ Zettelkasten. “Regaining Depth With the Zettelkasten Method.” May 14, 2025.
 # Related
 
 - [[ref-fast-sascha]]
-
----
-# Folgezettel links

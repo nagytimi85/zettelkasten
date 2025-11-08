@@ -17,6 +17,7 @@ Interestingly enough, this definition lacks any specific terms like atomicity, b
 - What is a Zettelkasten? - It's not a well defined term, although we all have a "feeling" about what it is.
 	- What can you add or take away for it to still be a Zettelkasten.
 	- My thinking about what is a Zettelkasten: [[moc-what-are-the-distinctive-features-of-a-zettelkasten-compared-to-a-notecard-collection]]
+- Sascha's article further exploring the idea: https://zettelkasten.de/posts/dont-dehorsify-the-horse/
 - Scott Scheper is very orthodox and very exclusionary about the definition of a Zettelkasten. 
 	- Ironically, the T in ANTI-net is "tree-structured" which a Zettelkasten is definitely not. This is one of the reasons Scott's ID system made it hard for me to get comfortable in my Zettelkasten.
 		- [[1c2a-rhizome-theory-s-definition-is-mirrored-in-luhmann-s-description-of-his-notebox]]
