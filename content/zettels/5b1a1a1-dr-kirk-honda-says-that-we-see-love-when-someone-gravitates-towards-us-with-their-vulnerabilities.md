@@ -21,6 +21,7 @@ Source: [Love Is Blind S9 #47 - Therapist Reacts](https://www.youtube.com/watch?
 	- Brené Brown says that a hard truth to accept is that we cannot love someone more than how much we love ourselves. We might have more positive, loving feelings towards someone than towards ourselves. But love ultimately manifests in acts. And if we act negatively towards ourselves, we take away from people around us too, we hurt them, we teach our younglings bad examples, etc. 
 		- Mother Theresa advised to first love those who are the closest to us (it's easier to love someone from afar, but more impactful to love someone who is close), and I can argue that we ourselves are the closest to ourselves and the hardest to love. 
 		- "For this is the Law and the Prophets." Mt 7.12
+- Would be fun to collect examples from literature and mindfully write/draft scenarios, where either this "preferential gravitation with vulnerability" is represented, or its lack creates conflict. 
 
 ---
 # Folgezettel links
