@@ -21,8 +21,11 @@ Hence, publishing this alter ego of mine, gives legitimacy to a side of me that 
 
 - Simple understanding can make things so much easier. It happened with understanding my anxiety and recognizing its tendencies, and then it happened by understanding my ADHD and recognizing its tendencies. 
 - Linking in a Zettelkasten can be over-mystified, but it's really just "this reminds me of that, that reminds me of this". [[1a1-the-knowledge-flower-and-idea-compass-tools-have-beginner-friendly-alternatives]]
+- Leaving a lot of projects unfinished created a huge insecurity in me early in my life. My late ADHD diagnosis shone a different light on this. [[1c3a1-having-countless-unfinished-projects-can-be-an-insecurity-but-also-a-positive-quirk]]
+- I want to embrace the mentality of starting a lot more projects than I know I'll finish, and let them "naturally fight for my interest".  [[1c4-i-ache-and-aim-for-bob-doto-s-mindset-of-starting-a-lot-of-books-and-letting-them-naturally-fight-for-his-interest]]
 
 ---
 # Folgezettel links
 
 - [[1c3-publishing-my-zettels-is-a-way-of-practicing-kindness-towards-myself]]
+- [[1c3a1-having-countless-unfinished-projects-can-be-an-insecurity-but-also-a-positive-quirk]]

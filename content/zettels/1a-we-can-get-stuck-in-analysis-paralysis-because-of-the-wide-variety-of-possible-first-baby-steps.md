@@ -27,5 +27,6 @@ The trap in this is that we can get stuck into analysis paralysis already before
 
 - [[1-writing-and-publishing-my-zettelkasten-in-english-can-be-a-good-way-to-practice-the-feynman-technique]]
 - [[1a1-the-knowledge-flower-and-idea-compass-tools-have-beginner-friendly-alternatives]]
+- [[1a2-is-zettelkasten-an-overcomplicated-system-or-do-we-just-suffer-from-information-overload]]
 
 

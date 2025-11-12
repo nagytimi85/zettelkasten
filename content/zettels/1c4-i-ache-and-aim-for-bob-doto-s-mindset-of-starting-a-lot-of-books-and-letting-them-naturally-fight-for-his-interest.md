@@ -27,6 +27,7 @@ I ache and aim for this mindset. I always feel pressure to finish what I started
 		- Although revisiting this, it reminds me of the chilling line of the Three Body Problem book series, "you are surrounded by food". 
 - In my teenage years, I hade a notebook titled "Ötletek, amikből akár regény is lehetne" - "Ideas that could become a novel someday". 
 - I was wondering why it is so hard for me to identify as a humorous writer, when humor is an essential part of my style: [[1.1c3 Vajon miért nem képzelem el magam humoros szerzőként annak ellenére, hogy a humor fontos része a személyiségemnek]]
+- Leaving a lot of projects unfinished created a huge insecurity in me early in my life. My late ADHD diagnosis shone a different light on this. [[1c3a1-having-countless-unfinished-projects-can-be-an-insecurity-but-also-a-positive-quirk]]
 
 ---
 # Folgezettel links
