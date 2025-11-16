@@ -29,3 +29,4 @@ Hence, publishing this alter ego of mine, gives legitimacy to a side of me that 
 
 - [[1c3-publishing-my-zettels-is-a-way-of-practicing-kindness-towards-myself]]
 - [[1c3a1-having-countless-unfinished-projects-can-be-an-insecurity-but-also-a-positive-quirk]]
+- [[1c3a2-from-mcdonald-s-to-the-handmaid-s-tale-a-chain-of-association-example]]
