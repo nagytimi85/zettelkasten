@@ -11,9 +11,13 @@ stamp 202511151120
 We were having breakfast with my husband at a fast food restaurant. 
 
 Him: You zoned out again. Your face is a bit creepy when it happens, but I'm happy your brain can just switch off and rest sometimes.
+
 Me: Oh but it didn't switch off. I'm currently replaying a Handmaid's Tale scene in my head. 
-Him: ... why. How. Seriously. 
+
+Him: ... why. How. Seriously.
+
 Me: I tell you how. 
+
 - I saw a woman at the counter in stockings and a dress. 
 - It came to mind that ultra-conservative Christian women, ie. FLDS women, or Gileadean women in [[ref-atwood-the-handmaid-s-tale-1986|The Handmaid's Tale]], are required to be covered from neck to wrist to toes. 
 	- [[3-the-rights-of-women-in-gilead-are-radically-cut-even-compared-to-medieval-ladies]]
@@ -21,9 +25,13 @@ Me: I tell you how.
 - Passion without good communication isn't good enough tho. Serena had to face this, when Commander Wharton presented a handmaid to her on their wedding night. 
 - Serena was able to learn the handmaid's former name just in a few questions. That's not right. Christina should've been more firm on "my name is Ofgabriel, ma'am", especially in front of a high commander. 
 - In the first season, June was presented to a Mexican delegation, and she (very wisely) stayed faithful to the rules and insisted that she did have another name indeed, but she doesn't use that anymore.
+
 Me: ... and this was the scene playing in my head. 
+
 Me: But I was indeed able to rest, because I didn't actively think about these. It just... happened. 
+
 Him: So you were able to just backseat and watch?
+
 Me: Yes, something like that. 
 
 ---
