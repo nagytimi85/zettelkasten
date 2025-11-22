@@ -6,8 +6,9 @@ tags:
 stamp 202510311453
 
 ---
-The Glory. Created by Kim Eun-sook and Kim Won-seok. Netflix, 2022. https://www.netflix.com/title/81374028
+**Kim, Eun-sook.** _The Glory_. Netflix, 2022. Series. [https://www.netflix.com/title/81374028](https://www.netflix.com/title/81374028)
 
+---
 ## Notes
 
 One of the main characters explain the title and essence of the story this way:

@@ -22,7 +22,7 @@ Side by side, you can find beautiful prayers and horrific curses, and you can pi
 - Harari also distinguishes between two very different kinds of the Christian god: [[4a1a-i-call-harari-s-two-gods-the-god-of-the-campfire-and-the-god-of-the-burning-pyre]]
 - The Old Testament and The New Testament are also two very different kinds of scripture
 	- In The Handmaid's Tale series, Emily made a remark that it's very telling if The Old Testament or The New Testament sells better, and before the rise of Gilead, they sold much more copies of The Old Testament.
-- See also the two kinds of restoring glory in the series The Glory. [[ref-netflix-the-glory]]
+- See also the two kinds of restoring glory in the series The Glory. [[ref-netflix-the-glory-2022]]
 
 ---
 # Folgezettel links

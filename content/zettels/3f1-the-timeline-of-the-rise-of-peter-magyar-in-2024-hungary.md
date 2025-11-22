@@ -36,9 +36,10 @@ Péter Magyar (front person of the TISZA party) had a very quick rise to politic
 
 - Péter Magyar's roadshows are an important feature, because political actors rarely left the capitol during the time FIDESZ had a super majority in Hungary.
 - Political change was a dream of many, and many didn't/don't like how its reality shaped. [[3f-political-reality-of-change-in-2024-26-hungary-looks-very-different-than-the-ide-that-ignited-it]]
-- Is Péter Magyar our Katniss Everdeen? Meaning that maybe a revolution was ready and only waiting for a fitting public face. 
+- Is Péter Magyar our Katniss Everdeen? Meaning that maybe a revolution was ready and only waiting for a fitting public face. [[3f1a-is-peter-magyar-our-katniss-everdeen]]
 
 ---
 # Folgezettel links
 
 - [[3f-political-reality-of-change-in-2024-26-hungary-looks-very-different-than-the-ide-that-ignited-it]]
+- [[3f1a-is-peter-magyar-our-katniss-everdeen]]

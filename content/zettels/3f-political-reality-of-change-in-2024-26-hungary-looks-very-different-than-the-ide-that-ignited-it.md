@@ -37,3 +37,4 @@ When we listened to the talks on Heroes’ Square, we imagined our “New Petőf
 
 - [[3-the-rights-of-women-in-gilead-are-radically-cut-even-compared-to-medieval-ladies]]
 - [[3f1-the-timeline-of-the-rise-of-peter-magyar-in-2024-hungary]]
+- [[3f2-the-fall-of-the-murdaugh-empire-and-the-hope-for-fall-of-the-fidesz-ner-oligarchy-have-some-similarities-in-the-persons-unraveling-them]]
