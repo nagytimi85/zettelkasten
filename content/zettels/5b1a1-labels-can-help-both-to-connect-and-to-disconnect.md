@@ -29,6 +29,7 @@ When we label ourselves and each other, it simplifies our social interactions. T
 - The "label" and state of "published" gives such legitimacy to my notes that is healing for my maximalism and my ADHD-shame - not by the label, but by my decision to put the label on. 
 	- [[1c3-publishing-my-zettels-is-a-way-of-practicing-kindness-towards-myself]]
 	- [[1c3a-publishing-my-zettels-is-a-kindness-towards-my-adhd-self-about-that-i-felt-insecure-for-long]]
+- I like the label SASS for my spirituality. [[4b-i-like-the-label-sass-for-myself]]
 
 
 ---

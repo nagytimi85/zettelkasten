@@ -42,3 +42,4 @@ Contrary to this, in the fictive fundamentalist state of Gilead, even the highes
 - [[3d-anita-moskát-in-horgonyhely-uses-maginc-and-pregnancy-privilege-as-a-plot-tool-to-create-a-fictional-matriarchy]]
 - [[3e-the-work-of-women-is-the-invisible-grout-that-keeps-successful-men-s-schedules-together]]
 - [[3f-political-reality-of-change-in-2024-26-hungary-looks-very-different-than-the-ide-that-ignited-it]]
+- [[3g-lie-to-survive-is-a-tactics-i-never-learned]]
