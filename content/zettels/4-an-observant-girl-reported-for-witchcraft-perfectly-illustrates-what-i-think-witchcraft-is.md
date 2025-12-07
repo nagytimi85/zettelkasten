@@ -19,8 +19,9 @@ This story illustrates well what witchcraft is in my interpretation. Mindfulness
 # Related
 
 - [[ref-harari-yuval-noah|Harari]] says God doesn’t care what we call them
-- One of my favorite scenes in The Young Pope is when the pope explains "what we call the voice of God"
+- One of my favorite scenes in The Young Pope is when the pope explains "what we call the voice of God" [[4a-it-s-up-to-us-how-we-call-the-whispering-voice-in-our-ears-god-satan-madonna-the-universe-or-anything-else]]
 - Jewish mommy vlogger [[ref-haberman-marion|Marion Haberman]] says that Judaism is all about mindful practices
+	- Jesuit priests pointed out in a Jesuit Q&A that a Catholic mass is a multi-sensory experience, with incense, music, colors, lights, handshakes, movement etc. 
 - The term SASSY Witch fits me (SASS being short for sceptical, agnostic, science seeking) [[4b-i-like-the-label-sass-for-myself]]
 
 ---

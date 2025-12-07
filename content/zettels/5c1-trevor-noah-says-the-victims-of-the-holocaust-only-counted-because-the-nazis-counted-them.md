@@ -16,9 +16,11 @@ stamp 202504111854
 - Similar remarks were made about the Gabby Petito case, that similar and worse abuses happen to countless women every day, Gabby's disappearance and tragic fate only made national news in the US because she was a pretty blonde, white young women. 
 	- Similar remarks were made about the tragic case of JonBenét Ramsey, although her case also were thrown into the spotlight because after the O.J. Simpson case, there was a commercial need for OJ-based true crime channels to keep their viewership. (Shource? Where did I hear this?)
 - Trevor Noah's memoire is called Born a Crime because him being born to a black mother and a white father in South Africa during the Apartheid was a clear indication of a previous crime (a black woman and a white man getting together). He was growing up in the post-Apartheid country and gained a unique combination of humor, experience and opinion about history and politics. 
+- Hungarians can't really get a lot of the black American experience, since we never participated in slave trade in any capacity. [[5c1a-we-can-t-really-understand-the-legacy-of-slavery-since-we-never-participated-in-slave-trade-in-any-capacity]]
 
 
 ---
 # Folgezettel links
 
 - [[5c-people-only-care-for-ruby-franke-s-child-abuse-case-because-she-was-a-famous-family-vlogger]]
+- [[5c1a-we-can-t-really-understand-the-legacy-of-slavery-since-we-never-participated-in-slave-trade-in-any-capacity]]

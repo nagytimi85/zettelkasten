@@ -20,6 +20,7 @@ This is a nice illustration of patterns being passed down between generations.
 
 - It reminds me of something I read on the internet: the first thing you think in a situation is what society thinks (it’s your conditioning, your biases), the second thing you think is what really is you.
 - [[ref-steigervald-krisztian|Krisztián Steigervald]] says in [[ref-steigervald-generaciok-harca-2020|his book about generations]] that throughout human history, even 100 years ago knowledge was passed down from mother to daughter, do father to son. (p15-16)
+- In conversation with [[ref-doto-bob|Bob Doto]] on reddit about how I fail to deploy the [[3g-lie-to-survive-is-a-tactics-i-never-learned|lie to survive]] tactics, I used the expression "I open my mouth and my full address and my whole family tree falls out". 
 
 ---
 # Folgezettel links

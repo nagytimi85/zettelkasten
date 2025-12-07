@@ -41,7 +41,7 @@ Me: Yes, something like that.
 - When I read Luhmann's paper on his notes collection, I recognized my chains of association in it. This was one of the most important reasons I became so fascinated with the Zettelkasten. 
 - Your Zettelkasten is neurospicy. 
 	- https://www.reddit.com/r/Zettelkasten/comments/1mtivmr/your_zettelkasten_is_neurospicy/
-	- [[202511161637 raw Your Zettelkasten is neurospicy]]
+	- [[1c3a3-a-zettelkasten-sounds-neurospicy-and-i-felt-seen-when-i-first-met-the-concept]]
 - Publishing my notes is a way of practicing kindness to my ADHD self. [[1c3a-publishing-my-zettels-is-a-kindness-towards-my-adhd-self-about-that-i-felt-insecure-for-long]]
 - [[ref-doto-bob|Bob Doto]] wrote to me on Reddit that "Just read through a bunch of your zettels. These are great fun to meander through. Which is not a feeling I often have looking through other people's notes", and said in our Zoom call that he finds himself clicking for "just one more" in my notes collection. Maybe I am able to convey this feeling of "backseat and rest" with my notes that I also experience when my chains of association carry me away? That would be cool. 
 - The strongest and most naturally growing parts of my notes are the "Related" ("Reminds me of") sections where I often dump more content than into the main body of the note. 

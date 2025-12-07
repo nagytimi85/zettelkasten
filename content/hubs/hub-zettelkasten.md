@@ -32,6 +32,10 @@ stamp 202504041836
 - There are different ways you can number your notes in a Zettelkasten. [[moc-different-ways-of-numbering-zettelkasten-notes]]
 
 
+## Zettelkasten and ADHD
+
+- Publishing my zettels is a kindness towards my ADHD self. [[1c3a-publishing-my-zettels-is-a-kindness-towards-my-adhd-self-about-that-i-felt-insecure-for-long]]
+- A Zettelkasten is neurospicy. [[1c3a3-a-zettelkasten-sounds-neurospicy-and-i-felt-seen-when-i-first-met-the-concept]]
 
 ---
 # Related
