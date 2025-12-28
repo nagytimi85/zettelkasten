@@ -1,5 +1,5 @@
 ---
-title: 3b1a2 The Hungarian Doctors' Association stood up for gen Z doctors
+title: 3b1a3 The Hungarian Doctors' Association stood up for gen Z doctors
 draft: false
 tags:
   - generations

@@ -29,4 +29,4 @@ A lot of young families moved in, but they didn't fully leave the rural culture 
 # Folgezettel links
 
 - [[3f1a1-growing-up-behind-the-iron-curtain-created-a-gated-community-and-fond-memories-for-my-dad]]
-- 
+- [[3f1a1a1-i-never-thought-he-could-die-before-me-as-if-destiny-would-respect-the-order-of-birth]]
