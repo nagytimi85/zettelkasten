@@ -14,4 +14,4 @@ stamp 202512251242
 ---
 # Related
 
-- [[ref-seneca]]
+- [[ref-seneca-lucius-annaeus]]
