@@ -29,4 +29,4 @@ In Hungary, the inside group of high-ranking politicians and their friends and f
 ---
 # Folgezettel links
 
-- [[3f-political-reality-of-change-in-2024-26-hungary-looks-very-different-than-the-ide-that-ignited-it]]
+- [[3f-political-reality-of-change-in-2024-26-hungary-looks-very-different-than-the-idea-that-ignited-it]]
