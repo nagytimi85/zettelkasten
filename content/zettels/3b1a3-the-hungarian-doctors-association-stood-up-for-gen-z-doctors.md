@@ -28,8 +28,10 @@ Magyar Orvosi Kamara. “Ki fog minket gyógyítani?” _Facebook_, November 4,
 	- I experienced this with my grandfather.
 	- I experienced this when debating with older generations about political change and "why isn't now good enough", "after all, we don't live in a shortage economy or wartime". 
 - I have a pet peeve against "good old days" posts on facebook. In the good old days there were no facebook. If you want to share your grievances on social media instead of just talking to your neighbour, you aren't a "good old grandpa" either. 
+- Zsolt Hegedűs, the TISZA party's pick for the health minister position went viral on the 2026 election night with his dance moves. [[3b1a3a-we-learned-from-the-fidesz-election-campaign-meeting-hegedus-dance-moves-that-you-can-t-be-performatively-youth-friendly]]
 
 ---
 # Folgezettel links
 
 - [[3b1a-gen-y-and-z-did-not-learn-to-wait]]
+- [[3b1a3a-we-learned-from-the-fidesz-election-campaign-meeting-hegedus-dance-moves-that-you-can-t-be-performatively-youth-friendly]]

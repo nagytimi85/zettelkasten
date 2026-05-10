@@ -37,3 +37,4 @@ Stories make it possible for us, to trust and cooperate with people we have no p
 - [[5b-looking-down-on-fanfiction-and-fanart-is-the-wrong-way-of-looking-at-art]]
 - [[5b1a-humans-think-in-stories-rather-than-in-facts-and-every-group-has-its-own-tales]]
 - [[5b1b-gossip-theory-says-that-the-human-language-feels-like-it-developed-especially-for-gossiping]]
+- [[5b1c-i-felt-old-when-my-classmates-didn-t-remember-the-devecser-disaster-and-i-was-already-a-working-woman-back-then]]

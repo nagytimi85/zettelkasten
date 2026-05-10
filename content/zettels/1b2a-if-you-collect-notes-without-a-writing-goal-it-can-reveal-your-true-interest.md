@@ -30,3 +30,4 @@ He writes:
 
 - [[1b2-there-are-two-ways-to-start-a-hub-note-looking-back-or-looking-forward]]
 - [[1b2a1-umberto-eco-said-to-keep-your-moly-or-goodreads-profile-up-to-date]]
+- [[1b2a2-you-can-always-have-stuff-to-write-about-if-you-look-at-your-morning-pages-as-meditation-and-not-as-writing-or-journaling]]
