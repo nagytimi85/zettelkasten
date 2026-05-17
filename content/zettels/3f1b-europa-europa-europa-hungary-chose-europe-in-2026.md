@@ -24,9 +24,12 @@ For 16 years we were increasingly tending East, and the opposing TISZA’s super
 	    - It can be seen as colored by the era: it was written in 1983 in a Hungary that was still part of the Eastern Bloc
 - I heard in a preaching on a 20th of August Mass from a historian bishop, that Hungary has a tendency to be the border between East and West.
 	- Examples of Hungary being a flipping state or a border state: St. István’ founding of a Cristian state after Hungarians arriving from the East as pagan nomads, Pannonia being a flipping province between the Eastern and the Western part of the Roman Empire, the Turkish invasion stopping on Hungary, the Iron Curtain running along Hungary’s western border and then being broken down first here, near my hometown (the symbolic taking down the Berlin Wall came later), Hungary for years being the pawn state of Russia within the European Union, then Hungary choosing Europe in 2026.
+- A viral moment of the evening was Dr. Zsolt Hegedűs' dance. [[3b1a3a-we-learned-from-the-fidesz-election-campaign-meeting-hegedus-dance-moves-that-you-can-t-be-performatively-youth-friendly]]
+	- The dance returned on inauguration day. [[3f1b1-the-musical-lineup-of-the-inagural-session-of-the-new-parliament-was-symbolic]]
 
 
 ---
 # Folgezettel links
 
 - [[3f1-the-timeline-of-the-rise-of-peter-magyar-in-2024-hungary]]
+- [[3f1b1-the-musical-lineup-of-the-inagural-session-of-the-new-parliament-was-symbolic]]

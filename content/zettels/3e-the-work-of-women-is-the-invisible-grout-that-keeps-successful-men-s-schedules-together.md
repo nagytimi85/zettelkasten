@@ -33,6 +33,7 @@ The work of women (or servants - but even the most humble man can afford at leas
 - The schedule of a successful woman usually involves chores, and it usually talks about how to get non-chore work done while not losing sight of the chores. 
 - See the schedules of Benjamin Franklin, Niklas Luhmann, etc.
 	- To be fair, Benjamin Franklin writes about getting his warm food from a neighbor lady, after paying her to cook from a menu. Today, anyone can pay a food service for a weekly menu. Ladies too. 
+		- Another note on Franklin's diet: as a working teenager, he started eating vegetarian / plant-based, so he can save money for books. Later, he switched back and forth between eating and not eating meat, according to his autobiography. 
 - See the block schedule tutorial by successful mommy vlogger Jordan Page. 
 
 ---
@@ -41,3 +42,4 @@ The work of women (or servants - but even the most humble man can afford at leas
 - [[3-the-rights-of-women-in-gilead-are-radically-cut-even-compared-to-medieval-ladies]]
 - [[3e1-there-s-poetry-in-the-way-how-the-brotherhood-surrounding-the-murdaugh-frauds-and-murders-was-torn-down-by-a-group-of-women]]
 - [[3e2-the-use-of-early-note-taking-tablets-remind-me-of-the-largely-erased-contribution-of-women-to-art]]
+- [[3e3-looking-at-benjamin-franklin-s-schedule-without-his-habit-tracker-is-a-huge-miss]]
