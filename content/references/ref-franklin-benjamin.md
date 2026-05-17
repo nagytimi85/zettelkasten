@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Franklin, Benjamin
 draft: false
 tags:
   - benjaminfranklin

@@ -1,5 +1,5 @@
 ---
-title: "Franklin, Benjaim: The Autobiography of Benjamin Franklin"
+title: "Franklin, Benjamin: The Autobiography of Benjamin Franklin"
 draft: false
 tags:
   - benjaminfranklin
